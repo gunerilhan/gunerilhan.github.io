@@ -14,7 +14,7 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Ilhan Guner
+title: '&#x130;lhan G&#252;ner'
 
 # Short description of your site
 description: A virtual proof that name is awesome!
@@ -32,7 +32,7 @@ navbar-links:
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/img/ilhan.JPG"
+avatar: "/img/ilhan.jpg"
 
 # --- Footer options --- #
 
