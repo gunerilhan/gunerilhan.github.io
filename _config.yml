@@ -81,7 +81,7 @@ url-pretty: "http://gunerilhan.github.io"  # eg. "deanattali.com/beautiful-jekyl
 #disqus: ""
 
 # Fill in your Google Analytics ID to track your website using GA
-#google_analytics: ""
+google_analytics: "UA-85391453-1"
 
 # Facebook App ID
 # fb_app_id: ""
