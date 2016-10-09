@@ -1,7 +1,8 @@
 ---
 layout: page
 title: Research
-subtitle: Here I will tell you my research
 ---
+### Growth and Welfare Implications of Sector-Specific Innovations ###
 
+This paper identifies the optimal government support of business research and development (R&D) activities when sectors are heterogeneous. To this end, I build an endogenous growth model in which firm R&D drives macroeconomic growth and firm dynamics in two sectors that have different characteristics: a consumption-goods sector and an investment-goods sector. I calibrate my model to U.S. data. To quantitatively characterize the optimal R&D subsidy rate for each sector, I simulate the economy with various R&D subsidy rates that range from 0 to 90 percent. By explicitly examining the transition path after a change in subsidy rates, I highlight the tradeoff between the consumption level in short-run and long-run growth. I find that the optimal combination of the subsidy rates is 82 percent in the consumption sector and 78 percent in the investment sector. By moving from the baseline subsidy rates (20 percent in each sector), society can achieve a 14 percent welfare gain in consumption-equivalent terms. The investment sector R&D subsidy generates three quarters of this welfare gain. The socially optimal subsidy system increases the annual GDP growth rate from 2 percent to 3.3 percent. I also find that when the government transfer budget is limited, the consumption sector R&D should be subsidized at a higher rate than the investment sector.
 
