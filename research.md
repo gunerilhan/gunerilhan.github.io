@@ -8,6 +8,6 @@ This paper identifies the optimal government support of business research and de
 
 ### Worker Flows over the Life Cycle ###
 
-#### (joint with Tomaz Cajner and [Toshihiko Mukoyama][https://sites.google.com/site/toshimukoyama/]) ####
+#### (joint with Tomaz Cajner and [Toshihiko Mukoyama](https://sites.google.com/site/toshimukoyama/)) ####
 
 Using Current Population Survey data, we document monthly movements across three labor market states (employment, unemployment, and out of labor market) and transitions across jobs during the life cycle of individuals. The data shows that worker flows vary substantially over the life cycle. Most labor market transition rates go down as people age, while transitions out of the labor market increase later in the life cycle of workers. We build a partial-equilibrium model of the worker life cycle that features saving decisions, idiosyncratic worker productivity shocks, and match quality shocks. We use the model to identify the forces that lead to observed patterns of worker flows over the life cycle and over the business cycle.
