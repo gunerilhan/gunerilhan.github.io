@@ -3,8 +3,10 @@ layout: page
 title: Contact
 ---
 
-Phone: +1 (434) 924-7682
+Phone: +1 (434) 924-7682  
 
-Email: ig7xs@virginia.edu
+Email: ig7xs@virginia.edu  
 
-Address: University of Virginia  Department of Economics  P O Box 400182  Charlottesville, VA 220904-4182
+Address: University of Virginia  
+Department of Economics  
+P O Box 400182  Charlottesville, VA 220904-4182
