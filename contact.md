@@ -12,4 +12,4 @@ title: Contact
 > University of Virginia  
 > Department of Economics  
 > PO Box 400182  
-> Charlottesville, VA 220904-4182
+> Charlottesville, VA 22904-4182
