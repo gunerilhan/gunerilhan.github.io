@@ -3,8 +3,16 @@ layout: page
 title: Teaching
 ---
 
-\begin{tabular}[lll]
-Course & Title & Dates \\
+\begin{table}[]
+\centering
+\caption{My caption}
+\label{my-label}
+\begin{tabular}{|l|l|l|l|l|}
 \hline
+ &  &  &  &  \\ \hline
+ &  &  &  &  \\ \hline
+ &  &  &  &  \\ \hline
+ &  &  &  &  \\ \hline
 \end{tabular}
+\end{table}
 
