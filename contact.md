@@ -9,14 +9,4 @@ title: Contact
 
 **Address:** 
 
-> School of Economics, 
-
-> Keynes College, 
-
-> University of Kent, 
-
-> Canterbury, 
-
->Kent CT2 7NP
-
->UK
+> School of Economics, <br>Keynes College, <br>University of Kent, <br>Canterbury, <br> Kent CT2 7NP <br>UK
