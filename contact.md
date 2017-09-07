@@ -3,13 +3,15 @@ layout: page
 title: Contact
 ---
 
-**Phone:**   +1 (434) 924-7682 
+**Phone:**   +44 1227 827305
 
-**Email:**   ig7xs@virginia.edu  
+**Email:**   i.guner@kent.ac.uk 
 
 **Address:** 
 
-> University of Virginia  
-> Department of Economics  
-> PO Box 400182  
-> Charlottesville, VA 22904-4182
+> School of Economics, 
+> Keynes College, 
+> University of Kent, 
+> Canterbury, 
+> Kent CT2 7NP
+> UK
