@@ -9,7 +9,7 @@ title: Teaching
 
 #### PS1 ####
 
-Here is link to Python script that solves **[PS1](gunerilhan.github.io/img/PS1.ipynb)**
+Here is link to Python script that solves **[PS1](https://gunerilhan.github.io/img/PS1.ipynb)**
 
 #### Teaching Assistant, University of Virginia ####
 
