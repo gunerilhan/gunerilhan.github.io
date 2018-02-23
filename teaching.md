@@ -3,11 +3,11 @@ layout: page
 title: Teaching
 ---
 
-#### University of Kent ####
+## University of Kent ##
 
 ### Econ 569, Economic Growth ###
 
-## PS1 ##
+#### PS1 ####
 
 Here is link to Python script that solves PS1
 
