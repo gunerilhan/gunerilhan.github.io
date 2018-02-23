@@ -3,6 +3,14 @@ layout: page
 title: Teaching
 ---
 
+#### University of Kent ####
+
+### Econ 569, Economic Growth ###
+
+## PS1 ##
+
+Here is link to Python script that solves PS1
+
 #### Teaching Assistant, University of Virginia ####
 
 | Course | Title | Dates |
