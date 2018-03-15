@@ -3,6 +3,10 @@ layout: page
 title: Teaching
 ---
 
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">&quot;The right way to view this appointment is, I think, as if Donald Trump were to name William Shatner to command the Navy&#39;s 7th Fleet.&quot; <a href="https://t.co/VEjBX2t5az">https://t.co/VEjBX2t5az</a></p>&mdash; Paul Krugman (@paulkrugman) <a href="https://twitter.com/paulkrugman/status/974008754428620800?ref_src=twsrc%5Etfw">March 14, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+
+
 ## University of Kent ##
 
 ### Econ 569, Economic Growth ###
