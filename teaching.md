@@ -7,6 +7,10 @@ title: Teaching
 
 ### Econ 569, Economic Growth ###
 
+#### INEQUALITY #####
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Exactly. Distributional issues aren&#39;t the whole story but they sure as hell are a large part of it. From that Haldane speech again: <a href="https://t.co/wnhTmw0gFP">pic.twitter.com/wnhTmw0gFP</a></p>&mdash; liberal conspiracy theory (@jocanib) <a href="https://twitter.com/jocanib/status/976737714484793344?ref_src=twsrc%5Etfw">March 22, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
 
 #### DEMOGRAPHICS ####
 
@@ -15,6 +19,9 @@ title: Teaching
 #### PS1 ####
 
 Here is link to Python script that solves **[PS1](https://gunerilhan.github.io/img/PS1.html)**
+
+
+
 
 #### Teaching Assistant, University of Virginia ####
 
