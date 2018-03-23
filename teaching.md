@@ -7,6 +7,11 @@ title: Teaching
 
 ### Econ 569, Economic Growth ###
 
+#### OPENNESS ####
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">How trade boosts productivity <a href="https://t.co/d5IC8xF4Hi">https://t.co/d5IC8xF4Hi</a> <a href="https://twitter.com/Noahpinion?ref_src=twsrc%5Etfw">@Noahpinion</a> on trade wars &amp; lessons from China trade <a href="https://t.co/NTRkee3i8Y">https://t.co/NTRkee3i8Y</a></p>&mdash; John Van Reenen (@johnvanreenen) <a href="https://twitter.com/johnvanreenen/status/977183328238538752?ref_src=twsrc%5Etfw">March 23, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+
 #### TECHNOLOGICAL PROGRESS ####
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Among the most thought provoking papers I read in past year, this one by <a href="https://twitter.com/johnvanreenen?ref_src=twsrc%5Etfw">@johnvanreenen</a> et al. is up there for sure: sustaining Moore’s Law requires x18 as many researchers today as in 1970s and research productivity is falling everywhere. <a href="https://t.co/Chlm0Cfg3m">https://t.co/Chlm0Cfg3m</a> <a href="https://t.co/FJp8WsRqw0">pic.twitter.com/FJp8WsRqw0</a></p>&mdash; Thor Berger (@bergerthor) <a href="https://twitter.com/bergerthor/status/976842869951680514?ref_src=twsrc%5Etfw">March 22, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
