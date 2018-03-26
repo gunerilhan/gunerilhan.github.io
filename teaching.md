@@ -34,6 +34,13 @@ title: Teaching
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">If the number of children no longer grows much, why is global population still projected to grow?<br><br>Because younger generations are larger than the earlier ones. So as older -smaller- cohorts die &amp; younger grow up, total population grows even if fertility &amp; mortality are unchanged <a href="https://t.co/FhDuGegw1Q">pic.twitter.com/FhDuGegw1Q</a></p>&mdash; Dina D. Pomeranz (@DinaPomeranz) <a href="https://twitter.com/DinaPomeranz/status/976222062900662278?ref_src=twsrc%5Etfw">March 20, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+
+#### HUMAN CAPITAL #####
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">The percentage of prime-age people not working because of illness or disability has started to decline, but it would take 6 to 8 more years without another recession it to return to 2000 levels. Nice analysis by <a href="https://twitter.com/ernietedeschi?ref_src=twsrc%5Etfw">@ernietedeschi</a> <a href="https://t.co/kTw9OXxJvW">https://t.co/kTw9OXxJvW</a></p>&mdash; Ioana Marinescu (@mioana) <a href="https://twitter.com/mioana/status/978300645575938048?ref_src=twsrc%5Etfw">March 26, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+
+
 #### PS1 ####
 
 Here is link to Python script that solves **[PS1](https://gunerilhan.github.io/img/PS1.html)**
