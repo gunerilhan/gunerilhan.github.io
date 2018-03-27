@@ -23,6 +23,10 @@ title: Teaching
 
 #### INEQUALITY #####
 
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">New CBO rpt. This fig shows <br>(1) inc growth 1979-2014 much lower for low &amp; mid quintiles than top<br>(2) over 40 yrs, pre-tax inc grew only ~27% for low &amp; middle quintiles <br>(3) taxes/transfers mitigate unequal income growth to some extent<br><br>(Full report: <a href="https://t.co/E2B2QMeTTj">https://t.co/E2B2QMeTTj</a>) <a href="https://t.co/biMiD3fToM">pic.twitter.com/biMiD3fToM</a></p>&mdash; Melissa S. Kearney (@kearney_melissa) <a href="https://twitter.com/kearney_melissa/status/978621144172462082?ref_src=twsrc%5Etfw">March 27, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Exactly. Distributional issues aren&#39;t the whole story but they sure as hell are a large part of it. From that Haldane speech again: <a href="https://t.co/wnhTmw0gFP">pic.twitter.com/wnhTmw0gFP</a></p>&mdash; liberal conspiracy theory (@jocanib) <a href="https://twitter.com/jocanib/status/976737714484793344?ref_src=twsrc%5Etfw">March 22, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
 
