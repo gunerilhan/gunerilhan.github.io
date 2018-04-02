@@ -9,9 +9,9 @@ title: Teaching
 
 #### Problem Sets ####
 
-Here is a link to the Python script that solves **[PS1](https://gunerilhan.github.io/img/PS1.html)**
+Here is a link to the Python script that solves **[PS1.](https://gunerilhan.github.io/img/PS1.html)**
 
-Here is a link to the Python script that solves **[PS2](https://gunerilhan.github.io/img/PS2.html)**
+Here is a link to the Python script that solves **[PS2.](https://gunerilhan.github.io/img/PS2.html)**
 
 #### OPENNESS ####
 
