@@ -7,6 +7,12 @@ title: Teaching
 
 ### Econ 569, Economic Growth ###
 
+#### Problem Sets ####
+
+Here is link to Python script that solves **[PS1](https://gunerilhan.github.io/img/PS1.html)**
+
+Here is link to Python script that solves **[PS2](https://gunerilhan.github.io/img/PS2.html)**
+
 #### OPENNESS ####
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">How trade boosts productivity <a href="https://t.co/d5IC8xF4Hi">https://t.co/d5IC8xF4Hi</a> <a href="https://twitter.com/Noahpinion?ref_src=twsrc%5Etfw">@Noahpinion</a> on trade wars &amp; lessons from China trade <a href="https://t.co/NTRkee3i8Y">https://t.co/NTRkee3i8Y</a></p>&mdash; John Van Reenen (@johnvanreenen) <a href="https://twitter.com/johnvanreenen/status/977183328238538752?ref_src=twsrc%5Etfw">March 23, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
@@ -45,9 +51,7 @@ title: Teaching
 
 
 
-#### PS1 ####
 
-Here is link to Python script that solves **[PS1](https://gunerilhan.github.io/img/PS1.html)**
 
 
 
