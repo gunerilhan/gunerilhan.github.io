@@ -18,6 +18,10 @@ Here is a link to the Python script that solves **[PS2.](https://gunerilhan.gith
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">How trade boosts productivity <a href="https://t.co/d5IC8xF4Hi">https://t.co/d5IC8xF4Hi</a> <a href="https://twitter.com/Noahpinion?ref_src=twsrc%5Etfw">@Noahpinion</a> on trade wars &amp; lessons from China trade <a href="https://t.co/NTRkee3i8Y">https://t.co/NTRkee3i8Y</a></p>&mdash; John Van Reenen (@johnvanreenen) <a href="https://twitter.com/johnvanreenen/status/977183328238538752?ref_src=twsrc%5Etfw">March 23, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">One of my favorite all-time interview experiences was with Russ Roberts on <a href="https://twitter.com/EconTalker?ref_src=twsrc%5Etfw">@EconTalker</a> on 3/14/2016 on “Trade, China, and U.S. Labor Markets” <a href="https://t.co/dbYniMP9sG">https://t.co/dbYniMP9sG</a>. It’s a lively debate: you can hear Russ and I learn from one another in real time! <a href="https://t.co/yd3BEJyoaM">https://t.co/yd3BEJyoaM</a></p>&mdash; David Autor (@davidautor) <a href="https://twitter.com/davidautor/status/981941196963696641?ref_src=twsrc%5Etfw">April 5, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+
 #### TECHNOLOGICAL PROGRESS ####
 
 
