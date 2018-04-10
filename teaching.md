@@ -51,6 +51,10 @@ Here is a link to the Python script that solves **[PS2.](https://gunerilhan.gith
 
 #### HUMAN CAPITAL #####
 
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Vietnam might be a high-learning-despite-low-income outlier today, but there have been others in the past (Japan, Korea, Thailand)<br><br>Great blog by <a href="https://twitter.com/maryamakmal?ref_src=twsrc%5Etfw">@maryamakmal</a> <a href="https://t.co/bZBe78u4dF">https://t.co/bZBe78u4dF</a></p>&mdash; Lee Crawfurd (@leecrawfurd) <a href="https://twitter.com/leecrawfurd/status/983463136413016065?ref_src=twsrc%5Etfw">April 9, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">The percentage of prime-age people not working because of illness or disability has started to decline, but it would take 6 to 8 more years without another recession it to return to 2000 levels. Nice analysis by <a href="https://twitter.com/ernietedeschi?ref_src=twsrc%5Etfw">@ernietedeschi</a> <a href="https://t.co/kTw9OXxJvW">https://t.co/kTw9OXxJvW</a></p>&mdash; Ioana Marinescu (@mioana) <a href="https://twitter.com/mioana/status/978300645575938048?ref_src=twsrc%5Etfw">March 26, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
 
