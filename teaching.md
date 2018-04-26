@@ -24,8 +24,10 @@ Here is a link to the Python script that solves **[PS2.](https://gunerilhan.gith
 
 #### TECHNOLOGICAL PROGRESS ####
 
-
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">The productivity gap between leaders and laggard firms in both IT-intensive and non-intensive sectors is striking. <a href="https://t.co/coaGyTXNyW">https://t.co/coaGyTXNyW</a> <a href="https://t.co/sUZpHQBTWA">pic.twitter.com/sUZpHQBTWA</a></p>&mdash; Adam Tooze (@adam_tooze) <a href="https://twitter.com/adam_tooze/status/989111794361827328?ref_src=twsrc%5Etfw">April 25, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/q9kYwVciFnI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Among the most thought provoking papers I read in past year, this one by <a href="https://twitter.com/johnvanreenen?ref_src=twsrc%5Etfw">@johnvanreenen</a> et al. is up there for sure: sustaining Moore’s Law requires x18 as many researchers today as in 1970s and research productivity is falling everywhere. <a href="https://t.co/Chlm0Cfg3m">https://t.co/Chlm0Cfg3m</a> <a href="https://t.co/FJp8WsRqw0">pic.twitter.com/FJp8WsRqw0</a></p>&mdash; Thor Berger (@bergerthor) <a href="https://twitter.com/bergerthor/status/976842869951680514?ref_src=twsrc%5Etfw">March 22, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
