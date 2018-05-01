@@ -7,6 +7,9 @@ title: Teaching
 
 ### Econ 569, Economic Growth ###
 
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">This economics professor just sees the numbers. <a href="https://t.co/dXPf5FXuuf">https://t.co/dXPf5FXuuf</a> from <a href="https://twitter.com/JHickman?ref_src=twsrc%5Etfw">@JHickman</a> &amp; <a href="https://twitter.com/tommcoker?ref_src=twsrc%5Etfw">@TommCoker</a>&#39;s Black Monday Murders, Volume 1 <a href="https://t.co/N7EaUdJlGJ">pic.twitter.com/N7EaUdJlGJ</a></p>&mdash; David Evans (@tukopamoja) <a href="https://twitter.com/tukopamoja/status/991296427606228992?ref_src=twsrc%5Etfw">May 1, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 #### Problem Sets ####
 
 Here is a link to the Python script that solves **[PS1.](https://gunerilhan.github.io/img/PS1.html)**
