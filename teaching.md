@@ -34,7 +34,7 @@ Here is a link to the Python script that solves **[PS2.](https://gunerilhan.gith
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Among the most thought provoking papers I read in past year, this one by <a href="https://twitter.com/johnvanreenen?ref_src=twsrc%5Etfw">@johnvanreenen</a> et al. is up there for sure: sustaining Moore’s Law requires x18 as many researchers today as in 1970s and research productivity is falling everywhere. <a href="https://t.co/Chlm0Cfg3m">https://t.co/Chlm0Cfg3m</a> <a href="https://t.co/FJp8WsRqw0">pic.twitter.com/FJp8WsRqw0</a></p>&mdash; Thor Berger (@bergerthor) <a href="https://twitter.com/bergerthor/status/976842869951680514?ref_src=twsrc%5Etfw">March 22, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
-
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">From Economic Synopses: Data on patents help clarify the claim that China is catching up to other innovative nations <a href="https://t.co/D40UgXp8XP">https://t.co/D40UgXp8XP</a> <a href="https://t.co/BfSOipvSCm">pic.twitter.com/BfSOipvSCm</a></p>&mdash; St. Louis Fed (@stlouisfed) <a href="https://twitter.com/stlouisfed/status/992831309155356672?ref_src=twsrc%5Etfw">May 5, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 #### INEQUALITY #####
 
