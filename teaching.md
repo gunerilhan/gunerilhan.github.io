@@ -27,6 +27,10 @@ Here is a link to the Python script that solves **[PS2.](https://gunerilhan.gith
 
 #### TECHNOLOGICAL PROGRESS ####
 
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Government spending on research and development has been relatively flat for several years. Why? <a href="https://t.co/xMGaizk6Y8">https://t.co/xMGaizk6Y8</a> <a href="https://t.co/2vDTmtO9qd">pic.twitter.com/2vDTmtO9qd</a></p>&mdash; St. Louis Fed (@stlouisfed) <a href="https://twitter.com/stlouisfed/status/996237499293929472?ref_src=twsrc%5Etfw">May 15, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+
+
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">The productivity gap between leaders and laggard firms in both IT-intensive and non-intensive sectors is striking. <a href="https://t.co/coaGyTXNyW">https://t.co/coaGyTXNyW</a> <a href="https://t.co/sUZpHQBTWA">pic.twitter.com/sUZpHQBTWA</a></p>&mdash; Adam Tooze (@adam_tooze) <a href="https://twitter.com/adam_tooze/status/989111794361827328?ref_src=twsrc%5Etfw">April 25, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/q9kYwVciFnI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
