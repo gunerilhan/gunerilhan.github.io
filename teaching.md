@@ -48,6 +48,8 @@ Here is a link to the Python script that solves **[PS2.](https://gunerilhan.gith
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Exactly. Distributional issues aren&#39;t the whole story but they sure as hell are a large part of it. From that Haldane speech again: <a href="https://t.co/wnhTmw0gFP">pic.twitter.com/wnhTmw0gFP</a></p>&mdash; liberal conspiracy theory (@jocanib) <a href="https://twitter.com/jocanib/status/976737714484793344?ref_src=twsrc%5Etfw">March 22, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Inequality in pay between workers reduced productivity and cooperation when it was hard to see who is productive. But when productivity was easy to observe and pay inequality was based on productivity, it didn&#39;t cause problems. <a href="https://t.co/y2xTri3MqJ">https://t.co/y2xTri3MqJ</a> New in <a href="https://twitter.com/QJEHarvard?ref_src=twsrc%5Etfw">@QJEHarvard</a> <a href="https://t.co/cByePpL2fx">pic.twitter.com/cByePpL2fx</a></p>&mdash; David Evans (@tukopamoja) <a href="https://twitter.com/tukopamoja/status/999284263899095040?ref_src=twsrc%5Etfw">May 23, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
 
 #### DEMOGRAPHICS ####
 
