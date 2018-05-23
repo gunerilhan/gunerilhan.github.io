@@ -60,6 +60,9 @@ Here is a link to the Python script that solves **[PS2.](https://gunerilhan.gith
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">There is a strong correlation between women&#39;s education and the number of children they have. And this is true also in countries with very high average fertility rates.<br><br>Link: <a href="https://t.co/pSPRNqNm5z">https://t.co/pSPRNqNm5z</a> <a href="https://t.co/HPbgTtK6Be">pic.twitter.com/HPbgTtK6Be</a></p>&mdash; Esteban Ortiz-Ospina (@eortizospina) <a href="https://twitter.com/eortizospina/status/989137857678860288?ref_src=twsrc%5Etfw">April 25, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">For one thing, when population grows the labor force expands and so does demand, and both of these are more likely to be met by new firms. This means that population growth affects the startup rate, which affects productivity &amp; dynamism. <a href="https://t.co/ZewetgWeVR">https://t.co/ZewetgWeVR</a></p>&mdash; Adam Ozimek (@ModeledBehavior) <a href="https://twitter.com/ModeledBehavior/status/999315840272134145?ref_src=twsrc%5Etfw">May 23, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+
 #### HUMAN CAPITAL #####
 
 
