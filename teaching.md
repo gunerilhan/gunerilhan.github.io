@@ -40,7 +40,14 @@ Here is a link to the Python script that solves **[PS2.](https://gunerilhan.gith
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">From Economic Synopses: Data on patents help clarify the claim that China is catching up to other innovative nations <a href="https://t.co/D40UgXp8XP">https://t.co/D40UgXp8XP</a> <a href="https://t.co/BfSOipvSCm">pic.twitter.com/BfSOipvSCm</a></p>&mdash; St. Louis Fed (@stlouisfed) <a href="https://twitter.com/stlouisfed/status/992831309155356672?ref_src=twsrc%5Etfw">May 5, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Who gains from local productivity growth? Big new <a href="https://twitter.com/nberpubs?ref_src=twsrc%5Etfw">@nberpubs</a> paper by Hornbeck+Moretti. Toplines: 1) TFP growth in US cities cuts wage inequality 2) homeowners get more than renters 3) skilled in other cities also gain 4) inequality *between* cities rises. <a href="https://t.co/Sz1st9Ceqr">https://t.co/Sz1st9Ceqr</a> <a href="https://t.co/cM4ZyfrWm5">pic.twitter.com/cM4ZyfrWm5</a></p>&mdash; Max Nathan (@iammaxnathan) <a href="https://twitter.com/iammaxnathan/status/1003645141817741322?ref_src=twsrc%5Etfw">June 4, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Looking for something fun/timely/applied to include in your macro class? <br>New NBER from Hornbeck and Moretti finds that increases in TFP reduce local inequality by disproportionally increasing wages of low-skilled workers. <a href="https://t.co/ZtnDGNWRmK">https://t.co/ZtnDGNWRmK</a> <a href="https://t.co/ODdYPixPgU">pic.twitter.com/ODdYPixPgU</a></p>&mdash; Elizabeth Pancotti (@ENPancotti) <a href="https://twitter.com/ENPancotti/status/1003666274105389057?ref_src=twsrc%5Etfw">June 4, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
 #### INEQUALITY #####
+
 
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">New CBO rpt. This fig shows <br>(1) inc growth 1979-2014 much lower for low &amp; mid quintiles than top<br>(2) over 40 yrs, pre-tax inc grew only ~27% for low &amp; middle quintiles <br>(3) taxes/transfers mitigate unequal income growth to some extent<br><br>(Full report: <a href="https://t.co/E2B2QMeTTj">https://t.co/E2B2QMeTTj</a>) <a href="https://t.co/biMiD3fToM">pic.twitter.com/biMiD3fToM</a></p>&mdash; Melissa S. Kearney (@kearney_melissa) <a href="https://twitter.com/kearney_melissa/status/978621144172462082?ref_src=twsrc%5Etfw">March 27, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
