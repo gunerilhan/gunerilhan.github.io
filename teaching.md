@@ -27,6 +27,10 @@ Here is a link to the Python script that solves **[PS2.](https://gunerilhan.gith
 
 #### TECHNOLOGICAL PROGRESS ####
 
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">What is <a href="https://twitter.com/hashtag/productivity?src=hash&amp;ref_src=twsrc%5Etfw">#productivity</a>? <a href="https://t.co/04FpRe2ZC5">https://t.co/04FpRe2ZC5</a> <a href="https://twitter.com/hashtag/BLSdata?src=hash&amp;ref_src=twsrc%5Etfw">#BLSdata</a></p>&mdash; BLS-Labor Statistics (@BLS_gov) <a href="https://twitter.com/BLS_gov/status/1029716839876702208?ref_src=twsrc%5Etfw">August 15, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Government spending on research and development has been relatively flat for several years. Why? <a href="https://t.co/xMGaizk6Y8">https://t.co/xMGaizk6Y8</a> <a href="https://t.co/2vDTmtO9qd">pic.twitter.com/2vDTmtO9qd</a></p>&mdash; St. Louis Fed (@stlouisfed) <a href="https://twitter.com/stlouisfed/status/996237499293929472?ref_src=twsrc%5Etfw">May 15, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
 
