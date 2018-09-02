@@ -63,6 +63,8 @@ Here is a link to the Python script that solves **[PS2.](https://gunerilhan.gith
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Populations in selected countries by %ile of global income distribution (2013, via <a href="https://twitter.com/BrankoMilan?ref_src=twsrc%5Etfw">@brankomilan</a>). China, India &amp; Brazil contain the richest &amp; the poorest people in the world. I predict India will converge to the average income of Brazil but maintain the same income dispersion. <a href="https://t.co/Fla31VRiP7">pic.twitter.com/Fla31VRiP7</a></p>&mdash; Pseudoerasmus (@pseudoerasmus) <a href="https://twitter.com/pseudoerasmus/status/1032012277720010752?ref_src=twsrc%5Etfw">August 21, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">When it pays to be an American (compared to a German)?<br>If your income position in the US is above the 35th percentile (=4 person HH after-tax income of $54k) <a href="https://t.co/u7JHCCLxTB">pic.twitter.com/u7JHCCLxTB</a></p>&mdash; Branko Milanovic (@BrankoMilan) <a href="https://twitter.com/BrankoMilan/status/1036264666748657666?ref_src=twsrc%5Etfw">September 2, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
 
 #### DEMOGRAPHICS ####
 
