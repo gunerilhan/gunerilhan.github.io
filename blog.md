@@ -3,6 +3,11 @@ layout: page
 title: Blog
 ---
 
+#### Firm Size Distribution ####
+
+![firm-size](https://gunerilhan.github.io/img/firm-size.png)
+
+
 ### Interesting News / Tweets ###
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Here are some interesting stylized facts from my recent paper on <a href="https://twitter.com/hashtag/productivity?src=hash&amp;ref_src=twsrc%5Etfw">#productivity</a>, written in a non-academic-friendly language :-) <a href="https://t.co/K9o4HW8B0e">https://t.co/K9o4HW8B0e</a></p>&mdash; Dany Bahar (@dany_bahar) <a href="https://twitter.com/dany_bahar/status/981252750083272707?ref_src=twsrc%5Etfw">April 3, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
