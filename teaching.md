@@ -54,7 +54,7 @@ Read [**Measuring the Explosive Growth in Chinese Research**](http://www.nber.or
 
 Summary of Xie and Freeman (2018) by Dwyer Gunn 
 
-> "In 2000, China’s share of papers in Scopus, a bibliometric database, was only 4 percent; by 2016, it was 18.6 percent, higher than the United States’ share" 
+> "In 2000, China’s share of papers in Scopus, a bibliometric database, was only 4 percent; by 2016, it was 18.6 percent, higher than the United States’ share." 
 
 #### INEQUALITY #####
 
