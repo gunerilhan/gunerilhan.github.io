@@ -11,10 +11,12 @@ title: Teaching
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">But the Nordhaus-Romer pairing makes sense, because they each point to contradictions at the heart of capitalism. It&#39;s all about market failure. Left alone, markets will generate too much pollution (Nordhaus) and too few ideas (Romer).</p>&mdash; Justin Wolfers (@JustinWolfers) <a href="https://twitter.com/JustinWolfers/status/1049237330647814144?ref_src=twsrc%5Etfw">October 8, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
+[Romer on Growth, EconTalk Podcast](http://www.econtalk.org/romer-on-growth/)
+
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">This economics professor just sees the numbers. <a href="https://t.co/dXPf5FXuuf">https://t.co/dXPf5FXuuf</a> from <a href="https://twitter.com/JHickman?ref_src=twsrc%5Etfw">@JHickman</a> &amp; <a href="https://twitter.com/tommcoker?ref_src=twsrc%5Etfw">@TommCoker</a>&#39;s Black Monday Murders, Volume 1 <a href="https://t.co/N7EaUdJlGJ">pic.twitter.com/N7EaUdJlGJ</a></p>&mdash; David Evans (@tukopamoja) <a href="https://twitter.com/tukopamoja/status/991296427606228992?ref_src=twsrc%5Etfw">May 1, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-[Romer on Growth, EconTalk Podcast](http://www.econtalk.org/romer-on-growth/)
+
 
 
 #### Problem Sets ####
