@@ -19,11 +19,6 @@ title: Teaching
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">How we create and destroy growth: The 2018 Nobel laureates <a href="https://t.co/26RqKCX0B8">https://t.co/26RqKCX0B8</a></p>&mdash; VoxEU (@voxeu) <a href="https://twitter.com/voxeu/status/1050816636775624704?ref_src=twsrc%5Etfw">October 12, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
 
-#### Problem Sets ####
-
-Here is a link to the Python script that solves **[PS1.](https://gunerilhan.github.io/img/PS1.html)**
-
-Here is a link to the Python script that solves **[PS2.](https://gunerilhan.github.io/img/PS2.html)**
 
 #### OPENNESS ####
 
