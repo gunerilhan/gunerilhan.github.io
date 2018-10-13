@@ -18,8 +18,7 @@ title: Teaching
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">How we create and destroy growth: The 2018 Nobel laureates <a href="https://t.co/26RqKCX0B8">https://t.co/26RqKCX0B8</a></p>&mdash; VoxEU (@voxeu) <a href="https://twitter.com/voxeu/status/1050816636775624704?ref_src=twsrc%5Etfw">October 12, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
-[New ideas about new ideas: Paul Romer, Nobel laureate by Chad Jones](https://voxeu.org/article/new-ideas-about-new-ideas-paul-romer-nobel-laureate)
-
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Chad Jones in <a href="https://twitter.com/voxeu?ref_src=twsrc%5Etfw">@voxeu</a> on <a href="https://twitter.com/paulmromer?ref_src=twsrc%5Etfw">@paulmromer</a>&#39;s important contribution to our understanding of economic growth. Excellent explanation of why Paul received the Nobel <a href="https://t.co/kfV3GHwCgC">https://t.co/kfV3GHwCgC</a></p>&mdash; Brandon Fuller (@fuller_brandon) <a href="https://twitter.com/fuller_brandon/status/1051110506944188417?ref_src=twsrc%5Etfw">October 13, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 #### OPENNESS ####
 
