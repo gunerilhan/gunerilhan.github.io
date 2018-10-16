@@ -60,6 +60,10 @@ Summary of Xie and Freeman (2018) by Dwyer Gunn
 
 > "In 2000, China’s share of papers in Scopus, a bibliometric database, was only 4 percent; by 2016, it was 18.6 percent, higher than the United States’ share." 
 
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Our Vox Column on the link between tax and innovation (<a href="https://twitter.com/S_Stantcheva?ref_src=twsrc%5Etfw">@S_Stantcheva</a> John Grigsby and Tom Nicholas) Taxation and innovation in the 20th century | VOX, CEPR Policy Portal <a href="https://t.co/JYdSWixUuz">https://t.co/JYdSWixUuz</a></p>&mdash; Ufuk Akcigit (@ufukakcigit) <a href="https://twitter.com/ufukakcigit/status/1052012541218578433?ref_src=twsrc%5Etfw">October 16, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+
 #### INEQUALITY #####
 
 
