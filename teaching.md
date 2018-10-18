@@ -20,6 +20,11 @@ title: Teaching
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Chad Jones in <a href="https://twitter.com/voxeu?ref_src=twsrc%5Etfw">@voxeu</a> on <a href="https://twitter.com/paulmromer?ref_src=twsrc%5Etfw">@paulmromer</a>&#39;s important contribution to our understanding of economic growth. Excellent explanation of why Paul received the Nobel <a href="https://t.co/kfV3GHwCgC">https://t.co/kfV3GHwCgC</a></p>&mdash; Brandon Fuller (@fuller_brandon) <a href="https://twitter.com/fuller_brandon/status/1051110506944188417?ref_src=twsrc%5Etfw">October 13, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">William Nordhaus &amp; the costs of climate change, <a href="https://twitter.com/voxeu?ref_src=twsrc%5Etfw">@voxeu</a> appreciation of the new <a href="https://twitter.com/hashtag/EconomicsNobel?src=hash&amp;ref_src=twsrc%5Etfw">#EconomicsNobel</a> laureate by Ken Gillingham <a href="https://twitter.com/YaleGlobal?ref_src=twsrc%5Etfw">@YaleGlobal</a> <a href="https://t.co/vHIrWzndgw">https://t.co/vHIrWzndgw</a></p>&mdash; Romesh Vaitilingam (@econromesh) <a href="https://twitter.com/econromesh/status/1052807023232991232?ref_src=twsrc%5Etfw">October 18, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
 #### OPENNESS ####
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">How trade boosts productivity <a href="https://t.co/d5IC8xF4Hi">https://t.co/d5IC8xF4Hi</a> <a href="https://twitter.com/Noahpinion?ref_src=twsrc%5Etfw">@Noahpinion</a> on trade wars &amp; lessons from China trade <a href="https://t.co/NTRkee3i8Y">https://t.co/NTRkee3i8Y</a></p>&mdash; John Van Reenen (@johnvanreenen) <a href="https://twitter.com/johnvanreenen/status/977183328238538752?ref_src=twsrc%5Etfw">March 23, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
