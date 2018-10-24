@@ -3,6 +3,14 @@ layout: page
 title: Blog
 ---
 
+#### Interesting Podcasts #####
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Me: what’s wrong with our previous models of consumer demand? <a href="https://twitter.com/Susan_Athey?ref_src=twsrc%5Etfw">@Susan_Athey</a>: “They just weren’t personalized enough.” Listen to our podcast conversation: <a href="https://t.co/ZUBGXW15x3">https://t.co/ZUBGXW15x3</a> <a href="https://twitter.com/hashtag/MindsMachines?src=hash&amp;ref_src=twsrc%5Etfw">#MindsMachines</a></p>&mdash; Andrew McAfee (@amcafee) <a href="https://twitter.com/amcafee/status/1054810979685593088?ref_src=twsrc%5Etfw">October 23, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+
+
 #### Firm Size Distribution ####
 
 ![firm-size](https://gunerilhan.github.io/img/firm-size.png)
