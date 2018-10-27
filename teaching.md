@@ -33,6 +33,8 @@ title: Teaching
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">One of my favorite all-time interview experiences was with Russ Roberts on <a href="https://twitter.com/EconTalker?ref_src=twsrc%5Etfw">@EconTalker</a> on 3/14/2016 on “Trade, China, and U.S. Labor Markets” <a href="https://t.co/dbYniMP9sG">https://t.co/dbYniMP9sG</a>. It’s a lively debate: you can hear Russ and I learn from one another in real time! <a href="https://t.co/yd3BEJyoaM">https://t.co/yd3BEJyoaM</a></p>&mdash; David Autor (@davidautor) <a href="https://twitter.com/davidautor/status/981941196963696641?ref_src=twsrc%5Etfw">April 5, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Esteban Ortiz-Ospina – <a href="https://twitter.com/eortizospina?ref_src=twsrc%5Etfw">@eortizospina</a> here – published a series of posts on the consequences of trade on <a href="https://twitter.com/OurWorldInData?ref_src=twsrc%5Etfw">@OurWorldInData</a> this week.<br><br>In the first one he reviews the empirical research on the link between trade and economic growth<a href="https://t.co/Rrg1wbI44e">https://t.co/Rrg1wbI44e</a></p>&mdash; Max Roser (@MaxCRoser) <a href="https://twitter.com/MaxCRoser/status/1056138235662008321?ref_src=twsrc%5Etfw">October 27, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 
 #### TECHNOLOGICAL PROGRESS ####
 
