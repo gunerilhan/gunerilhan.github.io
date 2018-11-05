@@ -24,6 +24,11 @@ title: Teaching
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">William Nordhaus &amp; the costs of climate change, <a href="https://twitter.com/voxeu?ref_src=twsrc%5Etfw">@voxeu</a> appreciation of the new <a href="https://twitter.com/hashtag/EconomicsNobel?src=hash&amp;ref_src=twsrc%5Etfw">#EconomicsNobel</a> laureate by Ken Gillingham <a href="https://twitter.com/YaleGlobal?ref_src=twsrc%5Etfw">@YaleGlobal</a> <a href="https://t.co/vHIrWzndgw">https://t.co/vHIrWzndgw</a></p>&mdash; Romesh Vaitilingam (@econromesh) <a href="https://twitter.com/econromesh/status/1052807023232991232?ref_src=twsrc%5Etfw">October 18, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+#### INTRODUCTION ####
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Until the 1950s people in Japan, Korea, and Singapore were as poor as people in Haiti, the Congo, Zimbabwe, and Afghanistan. <br>Since then the first three economies achieved growth and the others did not.<br><br>[From our entry on economic growth: <a href="https://t.co/e5f38sFGAf">https://t.co/e5f38sFGAf</a>] <a href="https://t.co/mmfP236eeZ">pic.twitter.com/mmfP236eeZ</a></p>&mdash; Max Roser (@MaxCRoser) <a href="https://twitter.com/MaxCRoser/status/1059403296010629121?ref_src=twsrc%5Etfw">November 5, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 
 #### OPENNESS ####
 
