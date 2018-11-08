@@ -29,6 +29,9 @@ title: Teaching
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Until the 1950s people in Japan, Korea, and Singapore were as poor as people in Haiti, the Congo, Zimbabwe, and Afghanistan. <br>Since then the first three economies achieved growth and the others did not.<br><br>[From our entry on economic growth: <a href="https://t.co/e5f38sFGAf">https://t.co/e5f38sFGAf</a>] <a href="https://t.co/mmfP236eeZ">pic.twitter.com/mmfP236eeZ</a></p>&mdash; Max Roser (@MaxCRoser) <a href="https://twitter.com/MaxCRoser/status/1059403296010629121?ref_src=twsrc%5Etfw">November 5, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Notes on Global Convergence (Wonkish and Off-Point)   via <a href="https://twitter.com/nytimes?ref_src=twsrc%5Etfw">@NYTimes</a> <a href="https://t.co/QAKxi1KEMe">https://t.co/QAKxi1KEMe</a></p>&mdash; Giammario Impullitti (@gimpullitti) <a href="https://twitter.com/gimpullitti/status/1060326006140092417?ref_src=twsrc%5Etfw">November 8, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 
 #### OPENNESS ####
 
