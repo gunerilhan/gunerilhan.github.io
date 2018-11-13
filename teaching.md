@@ -43,6 +43,9 @@ title: Teaching
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Esteban Ortiz-Ospina – <a href="https://twitter.com/eortizospina?ref_src=twsrc%5Etfw">@eortizospina</a> here – published a series of posts on the consequences of trade on <a href="https://twitter.com/OurWorldInData?ref_src=twsrc%5Etfw">@OurWorldInData</a> this week.<br><br>In the first one he reviews the empirical research on the link between trade and economic growth<a href="https://t.co/Rrg1wbI44e">https://t.co/Rrg1wbI44e</a></p>&mdash; Max Roser (@MaxCRoser) <a href="https://twitter.com/MaxCRoser/status/1056138235662008321?ref_src=twsrc%5Etfw">October 27, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">(1/8) Thread: A selection of key facts about global trade. <br><br>Everything here is from our new entry on this topic: <a href="https://t.co/x53mGQrKpx">https://t.co/x53mGQrKpx</a></p>&mdash; Esteban Ortiz-Ospina (@eortizospina) <a href="https://twitter.com/eortizospina/status/1062361386485977089?ref_src=twsrc%5Etfw">November 13, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 
 #### TECHNOLOGICAL PROGRESS ####
 
