@@ -3,6 +3,8 @@ layout: page
 title: Teaching
 ---
 
+[lectur3][/img/lecture3.md]
+
 
 ## University of Kent ##
 
