@@ -3,7 +3,7 @@ layout: page
 title: Teaching
 ---
 
-[lectur3](gunerilhan.github.io/img/lecture3.md)
+[lectur3]((https://gunerilhan.github.io/img/lecture3.md))
 
 
 ## University of Kent ##
