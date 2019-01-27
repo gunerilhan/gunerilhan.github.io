@@ -3,6 +3,7 @@ layout: page
 title: Teaching
 ---
 
+[Lecture 3](https://github.com/gunerilhan/gunerilhan.github.io/blob/master/img/lecture3.html)
 
 ## University of Kent ##
 
