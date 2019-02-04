@@ -3,10 +3,13 @@ layout: page
 title: Teaching
 ---
 
-<iframe src="https://ourworldindata.org/grapher/meat-supply-per-person" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+
 
 
 ## University of Kent ##
+
+<iframe src="https://ourworldindata.org/grapher/meat-supply-per-person" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+
 
 ### Econ 569, Economic Growth ###
 
