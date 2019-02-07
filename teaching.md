@@ -142,3 +142,6 @@ Summary of Xie and Freeman (2018) by Dwyer Gunn
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Whaddaya know? Infant industry (natural) protection did work in one important historical case: 19th century France. <a href="https://t.co/E91o3Hwh8i">https://t.co/E91o3Hwh8i</a>. Nice to see this paper in print.</p>&mdash; Dani Rodrik (@rodrikdani) <a href="https://twitter.com/rodrikdani/status/1056918143841505280?ref_src=twsrc%5Etfw">October 29, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+#### CLIMATE CHANGE ####
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">No offense BU, but what do you teach econ majors? <a href="https://t.co/vlQoRqZJGP">pic.twitter.com/vlQoRqZJGP</a></p>&mdash; Wojtek Kopczuk (@wwwojtekk) <a href="https://twitter.com/wwwojtekk/status/1093567837057269761?ref_src=twsrc%5Etfw">February 7, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
