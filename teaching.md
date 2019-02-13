@@ -3,7 +3,6 @@ layout: page
 title: Teaching
 ---
 
-[Seminar 2](https://github.com/gunerilhan/lectures/blob/master/seminar2/seminar2.html)
 
 
 
