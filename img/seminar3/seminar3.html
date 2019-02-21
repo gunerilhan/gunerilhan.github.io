@@ -592,6 +592,36 @@ wZVSVAAAAABJRU5ErkJggg==
 </div>
 
 </div>
+<div class="cell border-box-sizing code_cell rendered">
+<div class="input">
+<div class="prompt input_prompt">In&nbsp;[4]:</div>
+<div class="inner_cell">
+    <div class="input_area">
+<div class=" highlight hl-ipython3"><pre><span class="c1"># Correlation of Income Growth and Productivity growth</span>
+<span class="n">np</span><span class="o">.</span><span class="n">corrcoef</span><span class="p">(</span><span class="n">X</span><span class="p">,</span><span class="n">y</span><span class="p">)[</span><span class="mi">0</span><span class="p">,</span><span class="mi">1</span><span class="p">]</span><span class="o">.</span><span class="n">round</span><span class="p">(</span><span class="n">decimals</span><span class="o">=</span><span class="mi">2</span><span class="p">)</span>
+</pre></div>
+
+</div>
+</div>
+</div>
+
+<div class="output_wrapper">
+<div class="output">
+
+
+<div class="output_area"><div class="prompt output_prompt">Out[4]:</div>
+
+
+<div class="output_text output_subarea output_execute_result">
+<pre>0.89</pre>
+</div>
+
+</div>
+
+</div>
+</div>
+
+</div>
 <div class="cell border-box-sizing text_cell rendered">
 <div class="prompt input_prompt">
 </div>
@@ -604,7 +634,7 @@ wZVSVAAAAABJRU5ErkJggg==
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[4]:</div>
+<div class="prompt input_prompt">In&nbsp;[5]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span class="c1"># Download the data</span>
@@ -625,7 +655,7 @@ wZVSVAAAAABJRU5ErkJggg==
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[5]:</div>
+<div class="prompt input_prompt">In&nbsp;[6]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span class="n">key</span> <span class="o">=</span> <span class="s1">&#39;emp&#39;</span>
@@ -639,19 +669,6 @@ wZVSVAAAAABJRU5ErkJggg==
 
 <span class="n">alpha</span> <span class="o">=</span> <span class="mi">1</span><span class="o">/</span><span class="mi">3</span>
 <span class="n">data</span><span class="p">[</span><span class="s1">&#39;factors of production (4)&#39;</span><span class="p">]</span> <span class="o">=</span> <span class="n">data</span><span class="p">[</span><span class="s1">&#39;capital per worker (4)&#39;</span><span class="p">]</span><span class="o">**</span><span class="n">alpha</span><span class="o">*</span><span class="n">data</span><span class="p">[</span><span class="s1">&#39;hc&#39;</span><span class="p">]</span><span class="o">**</span><span class="p">(</span><span class="mi">1</span><span class="o">-</span><span class="n">alpha</span><span class="p">)</span>
-</pre></div>
-
-</div>
-</div>
-</div>
-
-</div>
-<div class="cell border-box-sizing code_cell rendered">
-<div class="input">
-<div class="prompt input_prompt">In&nbsp;[&nbsp;]:</div>
-<div class="inner_cell">
-    <div class="input_area">
-<div class=" highlight hl-ipython3"><pre> 
 </pre></div>
 
 </div>
@@ -679,7 +696,7 @@ $$ g_h = \left(\frac{h_{2014}}{h_{1975}} \right)^{1/39}-1 $$</p>
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[6]:</div>
+<div class="prompt input_prompt">In&nbsp;[7]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span class="c1"># create growth rate of factors as described above</span>
@@ -694,7 +711,7 @@ $$ g_h = \left(\frac{h_{2014}}{h_{1975}} \right)^{1/39}-1 $$</p>
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[7]:</div>
+<div class="prompt input_prompt">In&nbsp;[8]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span class="c1"># here is our data, as specified in the question we use rgdpna and rkna as measures of output and capital</span>
@@ -710,7 +727,7 @@ $$ g_h = \left(\frac{h_{2014}}{h_{1975}} \right)^{1/39}-1 $$</p>
 <div class="output">
 
 
-<div class="output_area"><div class="prompt output_prompt">Out[7]:</div>
+<div class="output_area"><div class="prompt output_prompt">Out[8]:</div>
 
 <div class="output_html rendered_html output_subarea output_execute_result">
 <div>
@@ -820,7 +837,7 @@ $$ g_h = \left(\frac{h_{2014}}{h_{1975}} \right)^{1/39}-1 $$</p>
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[8]:</div>
+<div class="prompt input_prompt">In&nbsp;[9]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span class="c1"># now calucalate the factor growth rates and productivity growth rates using formulas described above</span>
@@ -841,7 +858,7 @@ $$ g_h = \left(\frac{h_{2014}}{h_{1975}} \right)^{1/39}-1 $$</p>
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[9]:</div>
+<div class="prompt input_prompt">In&nbsp;[10]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span class="n">data_growth</span><span class="o">.</span><span class="n">columns</span><span class="o">=</span> <span class="s1">&#39;human capital&#39;</span><span class="p">,</span><span class="s1">&#39;income per worker&#39;</span><span class="p">,</span><span class="s1">&#39;capital per worker&#39;</span><span class="p">,</span><span class="s1">&#39;factors of production&#39;</span><span class="p">,</span> <span class="s1">&#39;productivity&#39;</span>
@@ -856,7 +873,7 @@ $$ g_h = \left(\frac{h_{2014}}{h_{1975}} \right)^{1/39}-1 $$</p>
 <div class="output">
 
 
-<div class="output_area"><div class="prompt output_prompt">Out[9]:</div>
+<div class="output_area"><div class="prompt output_prompt">Out[10]:</div>
 
 <div class="output_html rendered_html output_subarea output_execute_result">
 <div>
@@ -938,7 +955,7 @@ $$ g_h = \left(\frac{h_{2014}}{h_{1975}} \right)^{1/39}-1 $$</p>
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[10]:</div>
+<div class="prompt input_prompt">In&nbsp;[11]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span class="n">data_growth</span><span class="o">.</span><span class="n">plot</span><span class="p">(</span><span class="n">kind</span><span class="o">=</span><span class="s1">&#39;bar&#39;</span><span class="p">)</span>
@@ -953,11 +970,11 @@ $$ g_h = \left(\frac{h_{2014}}{h_{1975}} \right)^{1/39}-1 $$</p>
 <div class="output">
 
 
-<div class="output_area"><div class="prompt output_prompt">Out[10]:</div>
+<div class="output_area"><div class="prompt output_prompt">Out[11]:</div>
 
 
 <div class="output_text output_subarea output_execute_result">
-<pre>&lt;matplotlib.legend.Legend at 0x117672668&gt;</pre>
+<pre>&lt;matplotlib.legend.Legend at 0x1143e6630&gt;</pre>
 </div>
 
 </div>
@@ -1226,7 +1243,7 @@ AElFTkSuQmCC
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[11]:</div>
+<div class="prompt input_prompt">In&nbsp;[12]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span class="c1"># now let&#39;s calculate contribution of each factor to income growth</span>
@@ -1246,7 +1263,7 @@ AElFTkSuQmCC
 <div class="output">
 
 
-<div class="output_area"><div class="prompt output_prompt">Out[11]:</div>
+<div class="output_area"><div class="prompt output_prompt">Out[12]:</div>
 
 <div class="output_html rendered_html output_subarea output_execute_result">
 <div>
@@ -1322,7 +1339,7 @@ AElFTkSuQmCC
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[12]:</div>
+<div class="prompt input_prompt">In&nbsp;[13]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span class="n">data_growth_cont</span><span class="p">[[</span><span class="s1">&#39;factors of production&#39;</span><span class="p">,</span><span class="s1">&#39;productivity&#39;</span><span class="p">]]</span><span class="o">.</span><span class="n">plot</span><span class="p">(</span><span class="n">kind</span><span class="o">=</span><span class="s1">&#39;bar&#39;</span><span class="p">)</span>
@@ -1340,11 +1357,11 @@ AElFTkSuQmCC
 <div class="output">
 
 
-<div class="output_area"><div class="prompt output_prompt">Out[12]:</div>
+<div class="output_area"><div class="prompt output_prompt">Out[13]:</div>
 
 
 <div class="output_text output_subarea output_execute_result">
-<pre>&lt;matplotlib.text.Text at 0x1244aa320&gt;</pre>
+<pre>&lt;matplotlib.text.Text at 0x1156eaa90&gt;</pre>
 </div>
 
 </div>
@@ -1579,7 +1596,7 @@ ZhnmJG5mlmFO4mZmGeYkbmaWYf8fFvno4hInP1cAAAAASUVORK5CYII=
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[13]:</div>
+<div class="prompt input_prompt">In&nbsp;[14]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span class="k">for</span> <span class="n">code</span> <span class="ow">in</span> <span class="n">country_codes</span><span class="p">:</span>
@@ -1598,11 +1615,11 @@ ZhnmJG5mlmFO4mZmGeYkbmaWYf8fFvno4hInP1cAAAAASUVORK5CYII=
 <div class="output">
 
 
-<div class="output_area"><div class="prompt output_prompt">Out[13]:</div>
+<div class="output_area"><div class="prompt output_prompt">Out[14]:</div>
 
 
 <div class="output_text output_subarea output_execute_result">
-<pre>&lt;matplotlib.text.Text at 0x125a5a0f0&gt;</pre>
+<pre>&lt;matplotlib.text.Text at 0x1226d29b0&gt;</pre>
 </div>
 
 </div>
@@ -2208,7 +2225,7 @@ FcUoAIPBYKiiGAVgMBgMVRSjAAwGg6GKYhSAwWAwVFH+H0kSb4pp5sbZAAAAAElFTkSuQmCC
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[14]:</div>
+<div class="prompt input_prompt">In&nbsp;[15]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span class="k">for</span> <span class="n">code</span> <span class="ow">in</span> <span class="p">[</span><span class="s1">&#39;JPN&#39;</span><span class="p">,</span><span class="s1">&#39;CHN&#39;</span><span class="p">]:</span>
@@ -2227,11 +2244,11 @@ FcUoAIPBYKiiGAVgMBgMVRSjAAwGg6GKYhSAwWAwVFH+H0kSb4pp5sbZAAAAAElFTkSuQmCC
 <div class="output">
 
 
-<div class="output_area"><div class="prompt output_prompt">Out[14]:</div>
+<div class="output_area"><div class="prompt output_prompt">Out[15]:</div>
 
 
 <div class="output_text output_subarea output_execute_result">
-<pre>&lt;matplotlib.text.Text at 0x125bc7ba8&gt;</pre>
+<pre>&lt;matplotlib.text.Text at 0x12281f400&gt;</pre>
 </div>
 
 </div>
