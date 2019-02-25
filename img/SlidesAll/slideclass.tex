@@ -1,0 +1,51 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\usepackage{amsmath}
+\usepackage{verbatim}
+\usepackage[usenames,dvipsnames]{color}
+\usepackage{ulem}
+\usepackage{setspace}
+\usepackage{lscape}
+\usepackage{longtable}
+\usepackage[top=1.25in,bottom=1.5in,left=1in,right=1.5in,landscape]{geometry}
+\usepackage{graphicx}
+\usepackage{epstopdf}
+\usepackage[usenames,dvipsnames]{pstricks}
+\usepackage{epsfig}
+\usepackage{pstricks-add}
+\usepackage{pst-node}
+\usepackage{fancyhdr}
+\usepackage[absolute,showboxes]{textpos}
+
+%TCIDATA{OutputFilter=LATEX.DLL}
+%TCIDATA{Version=5.00.0.2552}
+%TCIDATA{<META NAME="SaveForMode" CONTENT="1">}
+%TCIDATA{Created=Thursday, August 28, 2003 13:38:44}
+%TCIDATA{LastRevised=Thursday, August 14, 2008 15:20:27}
+%TCIDATA{<META NAME="GraphicsSave" CONTENT="32">}
+%TCIDATA{<META NAME="DocumentShell" CONTENT="Standard LaTeX\Blank - Standard LaTeX Article">}
+%TCIDATA{Language=American English}
+%TCIDATA{CSTFile=LaTeX article (bright).cst}
+
+\setcounter{MaxMatrixCols}{10}
+
+\newenvironment{proof}[1][Proof]{\noindent\textbf{#1.} }{\ \rule{0.5em}{0.5em}}
+\setlength{\columnsep}{.2in}
+
+\renewcommand{\labelitemii}{$\cdot$}
+
+\pagestyle{fancy} \fancyhead{} \fancyfoot{} \rfoot{} \lfoot{}
+
+\newcommand{\slide}[2]{
+\begin{textblock}{11}(0,0)
+\textcolor{Black}{\textbf{\huge \rule{0pt}{1in} \raisebox{.2in}{#1}}}
+\end{textblock}
+\begin{Large} \noindent
+#2
+\end{Large}
+\vfill \pagebreak}
+
+\setlength{\TPHorizModule}{1in}
+\setlength{\TPVertModule}{1in}
+\textblockcolour{Yellow}
+\renewcommand{\headrulewidth}{0pt}
+
