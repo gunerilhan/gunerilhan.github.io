@@ -98,6 +98,7 @@ Summary of Xie and Freeman (2018) by Dwyer Gunn
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">When it pays to be an American (compared to a German)?<br>If your income position in the US is above the 35th percentile (=4 person HH after-tax income of $54k) <a href="https://t.co/u7JHCCLxTB">pic.twitter.com/u7JHCCLxTB</a></p>&mdash; Branko Milanovic (@BrankoMilan) <a href="https://twitter.com/BrankoMilan/status/1036264666748657666?ref_src=twsrc%5Etfw">September 2, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Income gains over the last generation were extremely unequal at different parts of the income distribution.<br>In the UK during the 80s and in the US at most times incomes at the lower end of the distribution were mostly stagnating.<br><br>From our paper <a href="https://t.co/QhhfttrMT2">https://t.co/QhhfttrMT2</a> <a href="https://t.co/3eAPZDQEE9">pic.twitter.com/3eAPZDQEE9</a></p>&mdash; Max Roser (@MaxCRoser) <a href="https://twitter.com/MaxCRoser/status/1104037444360552448?ref_src=twsrc%5Etfw">March 8, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
 #### DEMOGRAPHICS ####
 
