@@ -73,6 +73,7 @@ title: Teaching
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Looking for something fun/timely/applied to include in your macro class? <br>New NBER from Hornbeck and Moretti finds that increases in TFP reduce local inequality by disproportionally increasing wages of low-skilled workers. <a href="https://t.co/ZtnDGNWRmK">https://t.co/ZtnDGNWRmK</a> <a href="https://t.co/ODdYPixPgU">pic.twitter.com/ODdYPixPgU</a></p>&mdash; Elizabeth Pancotti (@ENPancotti) <a href="https://twitter.com/ENPancotti/status/1003666274105389057?ref_src=twsrc%5Etfw">June 4, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
+
 Read [**Measuring the Explosive Growth in Chinese Research**](http://www.nber.org/digest/oct18/oct18.pdf):
 
 Summary of Xie and Freeman (2018) by Dwyer Gunn 
