@@ -154,7 +154,7 @@ Summary of Xie and Freeman (2018) by Dwyer Gunn
 
 #### CLIMATE CHANGE ####
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">No offense BU, but what do you teach econ majors? <a href="https://t.co/vlQoRqZJGP">pic.twitter.com/vlQoRqZJGP</a></p>&mdash; Wojtek Kopczuk (@wwwojtekk) <a href="https://twitter.com/wwwojtekk/status/1093567837057269761?ref_src=twsrc%5Etfw">February 7, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h1RkSuAs03Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Our latest: We were curious to see how far the US could cut emissions if it adopted just a handful of the most ambitious policies that are already in place around the world.<br><br>So <a href="https://twitter.com/EnergyInnovLLC?ref_src=twsrc%5Etfw">@EnergyInnovLLC</a> helped us explore, using their energy policy model: <a href="https://t.co/ZDmoSiLuoI">https://t.co/ZDmoSiLuoI</a> /1</p>&mdash; brad plumer (@bradplumer) <a href="https://twitter.com/bradplumer/status/1095681123353542657?ref_src=twsrc%5Etfw">February 13, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
