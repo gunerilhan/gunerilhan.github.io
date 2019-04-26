@@ -89,6 +89,12 @@ Summary of Xie and Freeman (2018) by Dwyer Gunn
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Our Vox Column on the link between tax and innovation (<a href="https://twitter.com/S_Stantcheva?ref_src=twsrc%5Etfw">@S_Stantcheva</a> John Grigsby and Tom Nicholas) Taxation and innovation in the 20th century | VOX, CEPR Policy Portal <a href="https://t.co/JYdSWixUuz">https://t.co/JYdSWixUuz</a></p>&mdash; Ufuk Akcigit (@ufukakcigit) <a href="https://twitter.com/ufukakcigit/status/1052012541218578433?ref_src=twsrc%5Etfw">October 16, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
 
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Good paper by Matthew Backus. Evidence from the cement industry shows that competition pushes firms to be more productive. <a href="https://t.co/NuunObuXBN">https://t.co/NuunObuXBN</a></p>&mdash; Martin Gaynor (@MartinSGaynor) <a href="https://twitter.com/MartinSGaynor/status/1119272272869691395?ref_src=twsrc%5Etfw">April 19, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Who becomes an inventor in America? Read <a href="https://twitter.com/QJEHarvard?ref_src=twsrc%5Etfw">@QJEHarvard</a> article by Xavier Jaravel (<a href="https://twitter.com/XJaravel?ref_src=twsrc%5Etfw">@xjaravel</a>) and colleagues A Bell (<a href="https://twitter.com/alexbellecon?ref_src=twsrc%5Etfw">@AlexBellEcon</a>), R Chetty (<a href="https://twitter.com/OppInsights?ref_src=twsrc%5Etfw">@oppinsights</a>), N Petkova, and J Van Reenen (<a href="https://twitter.com/johnvanreenen?ref_src=twsrc%5Etfw">@johnvanreenen</a>) <a href="https://t.co/9ahAd0XimQ">https://t.co/9ahAd0XimQ</a> <a href="https://t.co/kCV0KPO9M2">pic.twitter.com/kCV0KPO9M2</a></p>&mdash; STICERD (@STICERD_LSE) <a href="https://twitter.com/STICERD_LSE/status/1121353157018357767?ref_src=twsrc%5Etfw">April 25, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+
 #### INEQUALITY #####
 
 
@@ -138,6 +144,10 @@ Summary of Xie and Freeman (2018) by Dwyer Gunn
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Imperfect substitution and development accounting <a href="https://t.co/QqeiR4n8v7">https://t.co/QqeiR4n8v7</a></p>&mdash; VoxEU (@voxeu) <a href="https://twitter.com/voxeu/status/1005880507576377345?ref_src=twsrc%5Etfw">June 10, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Exciting news<br><br>For too long researchers have had to reply on *years of schooling* as a measure of &quot;education&quot;.<br><br>We all knew those metrics could be misleading without adjusting for quality. We used them anyway.<br><br>We no longer have to - there is now a database measuring learning <a href="https://t.co/Z23pwXtrpd">pic.twitter.com/Z23pwXtrpd</a></p>&mdash; Jan Zilinsky (@janzilinsky) <a href="https://twitter.com/janzilinsky/status/1121078156176363522?ref_src=twsrc%5Etfw">April 24, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+
 #### INSTITUTIONS ####
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Happy 4th of July! <a href="https://t.co/4p6KCZRml4">https://t.co/4p6KCZRml4</a><br><br>Obviously the findings are interesting, but I also learned a lot of applied econometrics from this paper <a href="https://t.co/fnvNzQH30E">pic.twitter.com/fnvNzQH30E</a></p>&mdash; Matt Notowidigdo (@ProfNoto) <a href="https://twitter.com/ProfNoto/status/1014522895299760128?ref_src=twsrc%5Etfw">July 4, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
@@ -157,4 +167,7 @@ Summary of Xie and Freeman (2018) by Dwyer Gunn
 <iframe width="560" height="315" src="https://www.youtube.com/embed/h1RkSuAs03Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Our latest: We were curious to see how far the US could cut emissions if it adopted just a handful of the most ambitious policies that are already in place around the world.<br><br>So <a href="https://twitter.com/EnergyInnovLLC?ref_src=twsrc%5Etfw">@EnergyInnovLLC</a> helped us explore, using their energy policy model: <a href="https://t.co/ZDmoSiLuoI">https://t.co/ZDmoSiLuoI</a> /1</p>&mdash; brad plumer (@bradplumer) <a href="https://twitter.com/bradplumer/status/1095681123353542657?ref_src=twsrc%5Etfw">February 13, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Of course many extinction rebellers don&#39;t believe that carbon pricing works. For some evidence that it does check out our work here <a href="https://t.co/cykJNuMQCF">https://t.co/cykJNuMQCF</a> here <a href="https://t.co/jwIGNnhA9k">https://t.co/jwIGNnhA9k</a> (with <a href="https://twitter.com/MirabelleMuuls?ref_src=twsrc%5Etfw">@MirabelleMuuls</a>) or here <a href="https://t.co/FwhGv0ZUVH">https://t.co/FwhGv0ZUVH</a> (joint with <a href="https://twitter.com/johnvanreenen?ref_src=twsrc%5Etfw">@johnvanreenen</a> )</p>&mdash; Ralf Martin (@mondpanther) <a href="https://twitter.com/mondpanther/status/1121058865653714949?ref_src=twsrc%5Etfw">April 24, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
