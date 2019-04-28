@@ -95,6 +95,9 @@ Summary of Xie and Freeman (2018) by Dwyer Gunn
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Who becomes an inventor in America? Read <a href="https://twitter.com/QJEHarvard?ref_src=twsrc%5Etfw">@QJEHarvard</a> article by Xavier Jaravel (<a href="https://twitter.com/XJaravel?ref_src=twsrc%5Etfw">@xjaravel</a>) and colleagues A Bell (<a href="https://twitter.com/alexbellecon?ref_src=twsrc%5Etfw">@AlexBellEcon</a>), R Chetty (<a href="https://twitter.com/OppInsights?ref_src=twsrc%5Etfw">@oppinsights</a>), N Petkova, and J Van Reenen (<a href="https://twitter.com/johnvanreenen?ref_src=twsrc%5Etfw">@johnvanreenen</a>) <a href="https://t.co/9ahAd0XimQ">https://t.co/9ahAd0XimQ</a> <a href="https://t.co/kCV0KPO9M2">pic.twitter.com/kCV0KPO9M2</a></p>&mdash; STICERD (@STICERD_LSE) <a href="https://twitter.com/STICERD_LSE/status/1121353157018357767?ref_src=twsrc%5Etfw">April 25, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
 
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">A short non-technical discussion and comparison of two tax policies for innovation: R&amp;D tax credits and reduced corporate taxes of income from intellectual property, from Bronwyn H. Hall <a href="https://t.co/EjKRiTPTtt">https://t.co/EjKRiTPTtt</a> <a href="https://t.co/JH3g5SmRLQ">pic.twitter.com/JH3g5SmRLQ</a></p>&mdash; NBER (@nberpubs) <a href="https://twitter.com/nberpubs/status/1122587537241804800?ref_src=twsrc%5Etfw">April 28, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+
 #### INEQUALITY #####
 
 
