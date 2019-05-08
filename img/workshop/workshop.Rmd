@@ -34,7 +34,7 @@ Source: EU KLEMS
 
 ---
 
-### Labor Share ###
+### Revenue Labor Share ###
 
 <center>
 <img src="https://gunerilhan.github.io/img/workshop/img/lab_go.png" width="90%"/>
@@ -92,14 +92,9 @@ Source: Mertens (2019)
 
 ---
 
-<center>
-<img src="https://gunerilhan.github.io/img/workshop/img/figure3.png" width="90%"/>
-</center>
-Source: Mertens (2019)
-
----
 ### Results ###
 
+.pull-left[
 Revenue labor share: -12.31%
 
 * Output elasticity of labor: -7.2%
@@ -113,7 +108,15 @@ Revenue labor share: -12.31%
 * Labor market power: 2.74%
 
  * Large labor market power (1.3) 
-  
+ ]
+ 
+.pull-right[
+ 
+<center>
+<img src="https://gunerilhan.github.io/img/workshop/img/figure3.png" width="150%"/>
+</center>
+
+]
 ---
 ### Output elasticity of labor ###
 
@@ -140,6 +143,8 @@ Mertens (2019):
 
 > * Substitution of labor for intermediate inputs
 > * Outsource / offshore labor-intensive task
+
+
 
 ---
 ### Value added over gross output ###
@@ -179,6 +184,37 @@ Source: EU KLEMS
 * Value added labor share
  * Better suited for income shares
 
+---
+### Discussion ###
+
+Assumptions:
+
+* Time and firm invariant coefficients of production function
+
+* Competitive intermediate input markets
+
+Observations:
+
+* Outsourcing and offshoring
+
+* Decline in revenue labor share follows naturally from offshoring
+
+* Decline in both revenue labor share and value added labor share
+
+Suggestions:
+
+* Keep gross output production function estimation
+
+* Decompose value added labor share into its components
+
+---
+### Conclusion ###
+
+* Analyzes product market power and labor market power jointly
+
+* Shows the transformation in the output elasticities over time
+
+* Analyzes impact of international trade on the labor share and it's components
 
 
 
