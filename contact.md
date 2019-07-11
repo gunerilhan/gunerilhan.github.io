@@ -9,4 +9,4 @@ title: Contact
 
 **Address:** 
 
-> School of Economics, <br>Keynes College, <br>University of Kent, <br>Canterbury, <br> Kent CT2 7NP <br>UK
+> School of Economics, University of Kent <br> Room 119, Kennedy Building <br> Park Wood Road <br>Canterbury, Kent, CT2 7FS, UK
