@@ -97,6 +97,8 @@ Summary of Xie and Freeman (2018) by Dwyer Gunn
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">A short non-technical discussion and comparison of two tax policies for innovation: R&amp;D tax credits and reduced corporate taxes of income from intellectual property, from Bronwyn H. Hall <a href="https://t.co/EjKRiTPTtt">https://t.co/EjKRiTPTtt</a> <a href="https://t.co/JH3g5SmRLQ">pic.twitter.com/JH3g5SmRLQ</a></p>&mdash; NBER (@nberpubs) <a href="https://twitter.com/nberpubs/status/1122587537241804800?ref_src=twsrc%5Etfw">April 28, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Declining knowledge diffusion from the ‘best to the rest’ lies behind the fall in US business dynamism and productivity growth in recent decades<br>Ufuk Akcigit <a href="https://twitter.com/ufukakcigit?ref_src=twsrc%5Etfw">@ufukakcigit</a> <a href="https://twitter.com/UChi_Economics?ref_src=twsrc%5Etfw">@UChi_Economics</a>, Sina T. Ates <a href="https://twitter.com/federalreserve?ref_src=twsrc%5Etfw">@federalreserve</a><a href="https://t.co/kZexhbiUtE">https://t.co/kZexhbiUtE</a> <a href="https://t.co/DhcteS1oIH">pic.twitter.com/DhcteS1oIH</a></p>&mdash; VoxEU (@voxeu) <a href="https://twitter.com/voxeu/status/1151518204457603072?ref_src=twsrc%5Etfw">July 17, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
 
 #### INEQUALITY #####
 
