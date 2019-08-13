@@ -121,6 +121,7 @@ Summary of Xie and Freeman (2018) by Dwyer Gunn
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">One of the biggest failures of development over the last decades is that incomes of the very poorest on the planet have not risen: <a href="https://t.co/iTcNoWDKEz">https://t.co/iTcNoWDKEz</a><br><br>This is not widely known because the extreme poverty line is not low enough to focus on what happens to the very poorest.</p>&mdash; Max Roser (@MaxCRoser) <a href="https://twitter.com/MaxCRoser/status/1092947480004636672?ref_src=twsrc%5Etfw">February 6, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">What keeps poor countries poor? This picture always reminds me of one important reason: &quot;Resource misallocation&quot;. <br><br>Here&#39;s the story.<br><br>Eager to help his young country, Dr. Abdus Salam, the future Nobelist, returned to Pakistan in 1951 as a 25 years old star of the Physics world. <a href="https://t.co/pFtrbewWld">pic.twitter.com/pFtrbewWld</a></p>&mdash; Atif Mian (@AtifRMian) <a href="https://twitter.com/AtifRMian/status/1161308301365252098?ref_src=twsrc%5Etfw">August 13, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 #### DEMOGRAPHICS ####
 
