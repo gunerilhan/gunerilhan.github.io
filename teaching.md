@@ -33,6 +33,7 @@ title: Teaching
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Notes on Global Convergence (Wonkish and Off-Point)   via <a href="https://twitter.com/nytimes?ref_src=twsrc%5Etfw">@NYTimes</a> <a href="https://t.co/QAKxi1KEMe">https://t.co/QAKxi1KEMe</a></p>&mdash; Giammario Impullitti (@gimpullitti) <a href="https://twitter.com/gimpullitti/status/1060326006140092417?ref_src=twsrc%5Etfw">November 8, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Three new findings: (1) There was more policy reform than you think during and after the much-maligned Washington Consensus; (2) Growth is strongly correlated with reforms; (3) Reforms could explain increased growth in Africa and Latin America since the late 1990s <a href="https://twitter.com/nberpubs?ref_src=twsrc%5Etfw">@nberpubs</a> <a href="https://t.co/ThGKkS0uFN">pic.twitter.com/ThGKkS0uFN</a></p>&mdash; William Easterly (@bill_easterly) <a href="https://twitter.com/bill_easterly/status/1178673804136112131?ref_src=twsrc%5Etfw">September 30, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 #### OPENNESS ####
 
