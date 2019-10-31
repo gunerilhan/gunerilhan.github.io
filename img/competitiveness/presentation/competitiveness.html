@@ -1,0 +1,582 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Measuring Competition in Football Leagues using the Wisdom of Crowds</title>
+    <meta charset="utf-8">
+    <meta name="author" content="İlhan Güner and Mehdi Hamidi Sahneh" />
+    <meta name="date" content="2019-10-31" />
+    <link href="libs/remark-css/default.css" rel="stylesheet" />
+    <link href="libs/remark-css/rladies.css" rel="stylesheet" />
+    <link href="libs/remark-css/metropolis-fonts.css" rel="stylesheet" />
+  </head>
+  <body>
+    <textarea id="source">
+class: center, middle, inverse, title-slide
+
+# Measuring Competition in Football Leagues using the Wisdom of Crowds
+## <html>
+<div style="float:left">
+
+</div>
+<hr color='##EB811B' size=1px width=796px>
+</html>
+### İlhan Güner and Mehdi Hamidi Sahneh
+### 2019-10-31
+
+---
+
+
+
+
+## Research questions:
+
+&lt;br&gt;
+
+
+- Has the competition in the European football leagues gone down?
+
+- If so, what economic factors might cause such decline?
+
+
+---
+## The Champions 
+
+&lt;br&gt;
+
+
+|Season |EPL    | La Liga |  League 1 | Serie A | Bundesliga |
+| ---    | ---     | --- | --- | --- | --- |
+| 2014-2015 |  Chelsea 		| Barcelona 	| Paris St Germain  | Juventus    | Bayern Munich |
+| 2015-2016 | Leicester City  | Barcelona 	| Paris St Germain	| Juventus    | Bayern Munich |
+|	2016-2017 | Chelsea 	| Real Madrid 	| Monaco			| Juventus    | Bayern Munich |
+|	2017-2018 | Manchester City | Barcelona  	| Paris St Germain  | Juventus    | Bayern Munich |
+|	2018-2019 | Manchester City	| Barcelona 	| Paris St Germain  | Juventus    | Bayern Munich |
+
+---
+
+### Which of these football leagues is the most competitive?  
+
+
+
+
+&lt;br&gt;
+
+
+.left-column[
+
+- EPL
+
+- La Liga
+
+- Bundeliga
+
+- Ligue 1
+
+- Serie A
+]
+
+.right-column[
+
+&lt;center&gt;  
+&lt;iframe width="380" height="550" src="https://gunerilhan.github.io/img/seminar4/anybody.html" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/center&gt;
+
+]
+
+---
+## What do we do?
+
+&lt;br&gt;
+
+- Using betting data, construct measures of competitivess of football leagues
+
+- Analyze the causes of changes in competitiveness of football leagues [To be done]
+
+
+
+---
+
+class: inverse, center, middle
+name: data
+
+# Data
+
+&lt;html&gt;&lt;div style='float:left'&gt;&lt;/div&gt;&lt;hr color='#EB811B' size=1px width=796px&gt;&lt;/html&gt;
+
+---
+
+## Data
+
+-  Betting data from [Football-Data.co.uk](https://www.football-data.co.uk/data.php)
+
+- Odds on football matches from 12 major online bookmakers:
+ - e.g. BET365, Bwin, ...
+
+- Sample period: 2000 - 2019
+
+- Leagues: 
+ - English Premier League (EPL)
+ - Spanish La Liga
+ - French Ligue 1
+ - German Bundesliga
+ - Italian Serie A
+
+---
+## Data, example
+  
+
+|	Date | 	Home Team |	Away Team |	B365 Away |	B365 Draw| 	B365 Home |	BWin Away 	|BWin Draw |	BWin Home |	Score |
+| ---| ---| ---|---|---|---|---|---|---|---|
+|23/04/17 |	Real Madrid |	Barcelona |	3.20 |	4.00| 	2.05 	|3.25 |	3.90 |	2.05| 	2-3|
+|23/12/17 |	Real Madrid |	Barcelona |	3.10 	|3.75 |	2.10 |	3.20 |	3.70 |	2.05 |	0-3|
+|06/05/18 	|Barcelona |	Real Madrid |	4.50 |	4.33 |	1.66 	|4.50 |	4.33 	|1.67 |	2-2|
+|02/03/2019 |	Real Madrid |	Barcelona |	2.45 |	3.70| 	2.75| 	2.40 |	3.75 	|2.70 |	0-1|
+|28/10/2018 |	Barcelona |	Real Madrid |	3.60 |	3.80 |	1.95| 	3.60 |	3.80 	|1.95| 	5-1|
+
+---
+## Construction of "competitiveness index"
+
+1. For each bookmaker and for each game construct
+ - probability of home team win
+ - probability of away team win
+ - probability of draw
+
+2. Convert probabilities in step 1 to fair probabilities
+
+3. Construct probability margin:
+ - absolute value of the difference between home and away team winning probabilities
+
+4. Take average of probability margins over bookmakers to have a probability margin of each match
+
+5. Using the probability margins, construct competitiveness index for each league at each season
+
+---
+## Step 1: Odds to probability
+
+|	Date | 	Home Team |	Away Team |	B365 Away |	B365 Draw| 	B365 Home  |	Score |
+| ---| ---| ---|---|---|---|---|---|---|---|
+|06/05/18 	|Barcelona |	Real Madrid |	4.50 |	4.33 |	1.66 |	2-2|
+
+&lt;br&gt;
+
+`\begin{equation*}
+\text{Implied probability} = \frac{1}{\text{Decimal odds}} \times 100
+\end{equation*}`
+
+`\begin{gather*}
+p_h = \frac{1}{o_h} \times 100 = \frac{1}{1.66} \times 100 = 60.2\%\\
+p_d = \frac{1}{o_d} \times 100 = \frac{1}{4.33} \times 100 = 23.1\%\\
+p_a = \frac{1}{o_a} \times 100 =  \frac{1}{4.50} \times 100 =22.2\%
+\end{gather*}`
+
+---
+## Step 2: Fair probability
+
+- Bookmakers make a cut from bets
+
+- Total implied probability from the previous example: 105.6% 
+
+- Normalize probabilities:
+
+
+`\begin{gather*}
+p^*_h = \frac{p_h}{p_h+p_d+p_a}, \\
+p^*_d = \frac{p_d}{p_h+p_d+p_a}, \\
+p^*_a = \frac{p_a}{p_h+p_d+p_a}.
+\end{gather*}`
+
+- In our example
+
+ - `\(p_h = 60.2\%\)` and `\(p^*_h = 57\%\)`
+ - `\(p_d = 23.1\%\)` and `\(p^*_d = 21.9\%\)`
+ - `\(p_a = 22.2\%\)` and `\(p^*_a = 21\%\)` 
+ 
+
+---
+## Step 3: Probability margin
+
+- Absolute value of the difference between home team winning probability and away team winning probaility:
+
+&lt;br&gt;
+
+`\begin{equation*}
+m_{{i,l,t,b}} = | p^*_{h,t,b}- p^*_{a,t,b} |, 
+\end{equation*}`
+where `\(i=\{h,b\}\)` is the home-and-away-team-pair, `\(l\)` is the league
+
+## Step 4: Average over bookmakers
+
+&lt;br&gt;
+`\begin{equation*}
+m_{{i,l,t}} = \frac{1}{\text{# bookmakers}} \sum_{b} m_{{i,l,t,b}}
+\end{equation*}`
+
+---
+name: ci
+## Step 5: Construct "competitiveness index"
+
+- Level of competition in league `\(l\)` at season `\(t\)`:
+`\begin{equation*}
+\text{CI}(\epsilon,l,t) = \begin{cases}
+1 - \Big[\frac{1}{N} \sum_{i=1}^{N} m_{i,l,t}^{^{1-\epsilon}}\Big]^{1/1-\epsilon}, \; \text{for } 0 \leq \epsilon \neq 1\\
+1- \Big[\prod_{i=1}^{N} m_{i,l,t}\Big]^{1/N},\; \text{for } \epsilon = 1,\\
+\end{cases}`
+\end{equation*}	
+where `\(\epsilon\)` is the weighting parameter given to observations.
+
+- For lower values of `\(\epsilon\)` , `\(CI (\epsilon,l,t)\)` is more sensitive to changes in the upper tail of the distribution.
+- [ `\(CI (\epsilon,l,t)\)` ](#comp) varies between 0 and 1
+
+- As `\(CI(\epsilon,\cdot)\)` increases, inequality of probability margins decreases, competitiveness increases 
+
+---
+name: ai
+
+## `\(CI(\epsilon,\cdot)\)`,  a variant of the Atkinson index
+
+&lt;br&gt;
+
+`\begin{equation*}
+\text{A}(\epsilon) = \begin{cases}
+1 - \frac{1}{\bar{y}} \Big[\frac{1}{N} \sum_{i=1}^{N} y_i^{^{1-\epsilon}}\Big]^{1/1-\epsilon}, \; \text{for } 0 \leq \epsilon \neq 1\\
+1- \frac{1}{\bar{y}} \Big[\prod_{i=1}^{N} y_i\Big]^{1/N},\; \text{for } \epsilon = 1,\\
+\end{cases}`
+\end{equation*}	
+
+where `\(y_i\)` is individual `\(i\)`'s income, and `\(\bar{y}\)` is the mean income.
+
+- Notice that as [ `\(\text{A}(\epsilon)\)`](#appendix) increases inequality increases
+
+---
+## Why is our methodology better?
+
+&lt;center&gt;
+&lt;img src="https://media.giphy.com/media/5BWVeEbJsaB4UZAzSz/giphy.gif" width="40%"/&gt;
+&lt;/center&gt;
+
+---
+## Why bother, use league tables
+
+- Our measure can be used for 
+ 
+ - a single game
+ 
+ - group of games
+ 
+ - for a team
+ 
+ - tournaments (no points)
+ 
+- We have more observations 
+
+ - 380 observations in a league per season
+ 
+ - 20 observations with league tables
+   
+ - Noise may not wash away
+ 
+- Our measure conveys more information
+
+ - 60% winning chance (ex-ante) vs 3 points (ex-post)
+ - 10% winning chance vs 3 points
+
+
+---
+class: inverse, center, middle
+name: crowds
+
+# Wisdom of Crowds
+
+&lt;html&gt;&lt;div style='float:left'&gt;&lt;/div&gt;&lt;hr color='#EB811B' size=1px width=796px&gt;&lt;/html&gt;
+
+---
+## The Wisdom of the  Crowds
+
+
+- Odds are accurate predictors of realized outcomes
+
+--
+
+&lt;center&gt;
+&lt;img src="https://media.giphy.com/media/oOTTyHRHj0HYY/giphy.gif" width="40%"/&gt;
+&lt;/center&gt;
+
+--
+
+- Show me the numbers!
+---
+## Predictions vs realizations
+.pull-left[
+**Home team**
+&lt;img src="https://gunerilhan.github.io/img/competitiveness/presentation/Home_team_winning_probability.png" width="100%"/&gt;
+]
+
+.pull-right[
+**Away  team**
+&lt;img src="https://gunerilhan.github.io/img/competitiveness/presentation/Away_team_winning_probability.png" width="100%"/&gt;
+
+
+]
+
+
+---
+&lt;br&gt;
+
+&lt;center&gt;
+&lt;img src="https://media.giphy.com/media/5VKbvrjxpVJCM/giphy.gif" width="60%"/&gt;
+&lt;/center&gt;
+
+
+
+
+
+---
+
+## Predictions vs realizations, Draw
+&lt;div align="center"&gt;
+&lt;img src="https://gunerilhan.github.io/img/competitiveness/presentation/Draw_probability.png" width=50%&gt;
+&lt;/div&gt;
+---
+&lt;br&gt;
+
+&lt;br&gt;
+
+&lt;br&gt;
+
+&lt;center&gt;
+&lt;img src="https://media.giphy.com/media/26tOZlKO9QxXcHPEY/giphy.gif" width="80%"/&gt;
+&lt;/center&gt;
+
+---
+
+class: inverse, center, middle
+name: dist
+
+# Probability margin distribution
+
+&lt;html&gt;&lt;div style='float:left'&gt;&lt;/div&gt;&lt;hr color='#EB811B' size=1px width=796px&gt;&lt;/html&gt;
+
+---
+### Snapshot of probability margins
+
+
+&lt;center&gt;
+&lt;img src="https://gunerilhan.github.io/img/competitiveness/presentation/histograms-england-spain.png" width="80%"/&gt;
+&lt;/center&gt;
+
+---
+## Our data in scatter
+
+
+&lt;center&gt;
+&lt;img src="https://gunerilhan.github.io/img/competitiveness/presentation/distributions-multiple.png" width="60%"/&gt;
+&lt;/center&gt;
+
+---
+## High margin games getting more common
+
+
+&lt;center&gt;
+&lt;img src="https://gunerilhan.github.io/img/competitiveness/presentation/distributions-high-multiple.png" width="60%"/&gt;
+&lt;/center&gt;
+
+---
+### Share of matches with probability margin less that 1/3
+
+
+&lt;center&gt;
+&lt;img src="https://gunerilhan.github.io/img/competitiveness/presentation/margin_shares_sep_0.0_0.3.png" width="80%"/&gt;
+&lt;/center&gt;
+
+---
+### Share of matches with probability margin less that 2/3, greater than 1/3
+
+
+&lt;center&gt;
+&lt;img src="https://gunerilhan.github.io/img/competitiveness/presentation/margin_shares_sep_0.3_0.7.png" width="80%"/&gt;
+&lt;/center&gt;
+
+---
+### Share of matches with probability margin greater that 2/3
+
+
+&lt;center&gt;
+&lt;img src="https://gunerilhan.github.io/img/competitiveness/presentation/margin_shares_sep_0.7_1.0.png" width="80%"/&gt;
+&lt;/center&gt;
+
+---
+
+class: inverse, center, middle
+name: comp
+
+# Competitiveness Index
+
+&lt;html&gt;&lt;div style='float:left'&gt;&lt;/div&gt;&lt;hr color='#EB811B' size=1px width=796px&gt;&lt;/html&gt;
+
+
+---
+
+##  [ `\(CI(\epsilon=0)\)`](#ci) 
+
+
+&lt;center&gt;
+&lt;img src="https://gunerilhan.github.io/img/competitiveness/presentation/competitiveness-multiple.png"  width="90%"/&gt;
+&lt;/center&gt;
+
+---
+
+##  `\(CI(\epsilon=0,\cdot)\)` 
+
+
+&lt;center&gt;
+&lt;img src="https://gunerilhan.github.io/img/competitiveness/presentation/competitivenes.png"  width="70%"/&gt;
+&lt;/center&gt;
+
+
+
+
+
+---
+## `\(CI(\epsilon=0,\cdot)\)` : EPL
+
+&lt;center&gt;
+&lt;img src="https://gunerilhan.github.io/img/competitiveness/presentation/competitivenes_epl.png"  width="70%"/&gt;
+&lt;/center&gt;
+
+---
+## `\(CI(\epsilon=0,\cdot)\)` : La Liga
+
+&lt;center&gt;
+&lt;img src="https://gunerilhan.github.io/img/competitiveness/presentation/competitivenes_laliga.png"  width="70%"/&gt;
+&lt;/center&gt;
+
+---
+## `\(CI(\epsilon=0,\cdot)\)` : Bundesliga
+
+&lt;center&gt;
+&lt;img src="https://gunerilhan.github.io/img/competitiveness/presentation/competitivenes_bundesliga.png"  width="70%"/&gt;
+&lt;/center&gt;
+
+---
+## `\(CI(\epsilon=0,\cdot)\)` : Serie A
+
+&lt;center&gt;
+&lt;img src="https://gunerilhan.github.io/img/competitiveness/presentation/competitivenes_serieA.png"  width="70%"/&gt;
+&lt;/center&gt;
+
+---
+## `\(CI(\epsilon=0,\cdot)\)` : Ligue 1
+
+&lt;center&gt;
+&lt;img src="https://gunerilhan.github.io/img/competitiveness/presentation/competitivenes_ligue1.png"  width="70%"/&gt;
+&lt;/center&gt;
+
+---
+
+class: inverse, center, middle
+name: next
+
+# Next Steps
+
+&lt;html&gt;&lt;div style='float:left'&gt;&lt;/div&gt;&lt;hr color='#EB811B' size=1px width=796px&gt;&lt;/html&gt;
+
+---
+
+## Causal analysis
+
+- Impact of TV revenue rights on competitiveness
+
+- Impact of a change in a team's revenue on the competitiveness of that team
+ - Make use of Champions League qualification (4th team vs 5th team)
+ 
+---
+
+class: inverse, center, middle
+name: question
+
+# Comments / Questions?
+
+&lt;html&gt;&lt;div style='float:left'&gt;&lt;/div&gt;&lt;hr color='#EB811B' size=1px width=796px&gt;&lt;/html&gt;
+
+---
+
+class: inverse, center, middle
+name: appendix
+
+# Appendix
+
+&lt;html&gt;&lt;div style='float:left'&gt;&lt;/div&gt;&lt;hr color='#EB811B' size=1px width=796px&gt;&lt;/html&gt;
+
+---
+## [Atkinson Index](#ai) on League Tables
+
+&lt;center&gt;
+&lt;img src="https://gunerilhan.github.io/img/competitiveness/presentation/competitiveness-leaguetable-multiple.png"  width="80%"/&gt;
+&lt;/center&gt;
+
+---
+## League Tables
+
+&lt;center&gt;
+&lt;img src="https://gunerilhan.github.io/img/competitiveness/presentation/leaguetable-scatter.png"  width="60%"/&gt;
+&lt;/center&gt;
+    </textarea>
+<script src="https://remarkjs.com/downloads/remark-latest.min.js"></script>
+<script>var slideshow = remark.create({
+"ratio": "16:9",
+"highlightStyle": "github",
+"highlightLines": true,
+"countIncrementalSlides": false
+});
+if (window.HTMLWidgets) slideshow.on('afterShowSlide', function (slide) {
+  window.dispatchEvent(new Event('resize'));
+});
+(function() {
+  var d = document, s = d.createElement("style"), r = d.querySelector(".remark-slide-scaler");
+  if (!r) return;
+  s.type = "text/css"; s.innerHTML = "@page {size: " + r.style.width + " " + r.style.height +"; }";
+  d.head.appendChild(s);
+})();</script>
+
+<script>
+(function() {
+  var links = document.getElementsByTagName('a');
+  for (var i = 0; i < links.length; i++) {
+    if (/^(https?:)?\/\//.test(links[i].getAttribute('href'))) {
+      links[i].target = '_blank';
+    }
+  }
+})();
+</script>
+
+<script>
+(function() {
+  var i, text, code, codes = document.getElementsByTagName('code');
+  for (i = 0; i < codes.length;) {
+    code = codes[i];
+    if (code.parentNode.tagName !== 'PRE' && code.childElementCount === 0) {
+      text = code.textContent;
+      if (/^\\\((.|\s)+\\\)$/.test(text) || /^\\\[(.|\s)+\\\]$/.test(text) ||
+          /^\$\$(.|\s)+\$\$$/.test(text) ||
+          /^\\begin\{([^}]+)\}(.|\s)+\\end\{[^}]+\}$/.test(text)) {
+        code.outerHTML = code.innerHTML;  // remove <code></code>
+        continue;
+      }
+    }
+    i++;
+  }
+})();
+</script>
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+(function () {
+  var script = document.createElement('script');
+  script.type = 'text/javascript';
+  script.src  = 'https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-MML-AM_CHTML';
+  if (location.protocol !== 'file:' && /^https?:/.test(script.src))
+    script.src  = script.src.replace(/^https?:/, '');
+  document.getElementsByTagName('head')[0].appendChild(script);
+})();
+</script>
+  </body>
+</html>
