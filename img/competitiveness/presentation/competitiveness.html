@@ -1,10 +1,10 @@
 <!DOCTYPE html>
-<html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang="">
   <head>
     <title>Measuring Competition in Football Leagues using the Wisdom of Crowds</title>
-    <meta charset="utf-8">
+    <meta charset="utf-8" />
     <meta name="author" content="İlhan Güner and Mehdi Hamidi Sahneh" />
-    <meta name="date" content="2019-10-31" />
+    <meta name="date" content="2019-11-01" />
     <link href="libs/remark-css/default.css" rel="stylesheet" />
     <link href="libs/remark-css/rladies.css" rel="stylesheet" />
     <link href="libs/remark-css/metropolis-fonts.css" rel="stylesheet" />
@@ -21,7 +21,7 @@ class: center, middle, inverse, title-slide
 <hr color='##EB811B' size=1px width=796px>
 </html>
 ### İlhan Güner and Mehdi Hamidi Sahneh
-### 2019-10-31
+### 2019-11-01
 
 ---
 
@@ -35,7 +35,7 @@ class: center, middle, inverse, title-slide
 
 - Has the competition in the European football leagues gone down?
 
-- If so, what economic factors might cause such decline?
+- If so, what economic factors led to such decline?
 
 
 ---
@@ -84,11 +84,27 @@ class: center, middle, inverse, title-slide
 ]
 
 ---
+## Motivation
+
+&lt;br&gt;
+
+
+- Competitiveness is not just about who wins a league
+
+- Interested in the level of competition
+
+ - in all games
+ 
+ - for a Champions League spot
+ 
+ - for avoiding relegation
+
+---
 ## What do we do?
 
 &lt;br&gt;
 
-- Using betting data, construct measures of competitivess of football leagues
+- Using betting data, construct measures of competitiveness of football leagues
 
 - Analyze the causes of changes in competitiveness of football leagues [To be done]
 
@@ -109,8 +125,13 @@ name: data
 
 -  Betting data from [Football-Data.co.uk](https://www.football-data.co.uk/data.php)
 
+- Decimal odds: total return, including both stake and profit, if the bet wins
+
+
 - Odds on football matches from 12 major online bookmakers:
+
  - e.g. BET365, Bwin, ...
+
 
 - Sample period: 2000 - 2019
 
@@ -130,9 +151,8 @@ name: data
 |23/04/17 |	Real Madrid |	Barcelona |	3.20 |	4.00| 	2.05 	|3.25 |	3.90 |	2.05| 	2-3|
 |23/12/17 |	Real Madrid |	Barcelona |	3.10 	|3.75 |	2.10 |	3.20 |	3.70 |	2.05 |	0-3|
 |06/05/18 	|Barcelona |	Real Madrid |	4.50 |	4.33 |	1.66 	|4.50 |	4.33 	|1.67 |	2-2|
-|02/03/2019 |	Real Madrid |	Barcelona |	2.45 |	3.70| 	2.75| 	2.40 |	3.75 	|2.70 |	0-1|
 |28/10/2018 |	Barcelona |	Real Madrid |	3.60 |	3.80 |	1.95| 	3.60 |	3.80 	|1.95| 	5-1|
-
+|02/03/2019 |	Real Madrid |	Barcelona |	2.45 |	3.70| 	2.75| 	2.40 |	3.75 	|2.70 |	0-1|
 ---
 ## Construction of "competitiveness index"
 
@@ -143,7 +163,7 @@ name: data
 
 2. Convert probabilities in step 1 to fair probabilities
 
-3. Construct probability margin:
+3. Construct probability margins:
  - absolute value of the difference between home and away team winning probabilities
 
 4. Take average of probability margins over bookmakers to have a probability margin of each match
@@ -365,7 +385,7 @@ name: dist
 &lt;/center&gt;
 
 ---
-## Our data in scatter
+## Our data
 
 
 &lt;center&gt;
@@ -521,6 +541,7 @@ name: appendix
 &lt;img src="https://gunerilhan.github.io/img/competitiveness/presentation/leaguetable-scatter.png"  width="60%"/&gt;
 &lt;/center&gt;
     </textarea>
+<style data-target="print-only">@media screen {.remark-slide-container{display:block;}.remark-slide-scaler{box-shadow:none;}}</style>
 <script src="https://remarkjs.com/downloads/remark-latest.min.js"></script>
 <script>var slideshow = remark.create({
 "ratio": "16:9",
@@ -531,12 +552,59 @@ name: appendix
 if (window.HTMLWidgets) slideshow.on('afterShowSlide', function (slide) {
   window.dispatchEvent(new Event('resize'));
 });
-(function() {
-  var d = document, s = d.createElement("style"), r = d.querySelector(".remark-slide-scaler");
+(function(d) {
+  var s = d.createElement("style"), r = d.querySelector(".remark-slide-scaler");
   if (!r) return;
   s.type = "text/css"; s.innerHTML = "@page {size: " + r.style.width + " " + r.style.height +"; }";
   d.head.appendChild(s);
-})();</script>
+})(document);
+
+(function(d) {
+  var el = d.getElementsByClassName("remark-slides-area");
+  if (!el) return;
+  var slide, slides = slideshow.getSlides(), els = el[0].children;
+  for (var i = 1; i < slides.length; i++) {
+    slide = slides[i];
+    if (slide.properties.continued === "true" || slide.properties.count === "false") {
+      els[i - 1].className += ' has-continuation';
+    }
+  }
+  var s = d.createElement("style");
+  s.type = "text/css"; s.innerHTML = "@media print { .has-continuation { display: none; } }";
+  d.head.appendChild(s);
+})(document);
+// delete the temporary CSS (for displaying all slides initially) when the user
+// starts to view slides
+(function() {
+  var deleted = false;
+  slideshow.on('beforeShowSlide', function(slide) {
+    if (deleted) return;
+    var sheets = document.styleSheets, node;
+    for (var i = 0; i < sheets.length; i++) {
+      node = sheets[i].ownerNode;
+      if (node.dataset["target"] !== "print-only") continue;
+      node.parentNode.removeChild(node);
+    }
+    deleted = true;
+  });
+})();
+// adds .remark-code-has-line-highlighted class to <pre> parent elements
+// of code chunks containing highlighted lines with class .remark-code-line-highlighted
+(function(d) {
+  const hlines = d.querySelectorAll('.remark-code-line-highlighted');
+  const preParents = [];
+  const findPreParent = function(line, p = 0) {
+    if (p > 1) return null; // traverse up no further than grandparent
+    const el = line.parentElement;
+    return el.tagName === "PRE" ? el : findPreParent(el, ++p);
+  };
+
+  for (let line of hlines) {
+    let pre = findPreParent(line);
+    if (pre && !preParents.includes(pre)) preParents.push(pre);
+  }
+  preParents.forEach(p => p.classList.add("remark-code-has-line-highlighted"));
+})(document);</script>
 
 <script>
 (function() {
@@ -550,8 +618,8 @@ if (window.HTMLWidgets) slideshow.on('afterShowSlide', function (slide) {
 </script>
 
 <script>
-(function() {
-  var i, text, code, codes = document.getElementsByTagName('code');
+slideshow._releaseMath = function(el) {
+  var i, text, code, codes = el.getElementsByTagName('code');
   for (i = 0; i < codes.length;) {
     code = codes[i];
     if (code.parentNode.tagName !== 'PRE' && code.childElementCount === 0) {
@@ -565,7 +633,8 @@ if (window.HTMLWidgets) slideshow.on('afterShowSlide', function (slide) {
     }
     i++;
   }
-})();
+};
+slideshow._releaseMath(document);
 </script>
 <!-- dynamically load mathjax for compatibility with self-contained -->
 <script>
