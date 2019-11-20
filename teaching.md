@@ -107,6 +107,10 @@ Summary of Xie and Freeman (2018) by Dwyer Gunn
 
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Blogpost with <a href="https://twitter.com/iammaxnathan?ref_src=twsrc%5Etfw">@iammaxnathan</a> on measuring the effect of innovation on productivity inside firms: <a href="https://t.co/DgAbrvOZ0W">https://t.co/DgAbrvOZ0W</a> via <a href="https://twitter.com/LSEforBusiness?ref_src=twsrc%5Etfw">@LSEforBusiness</a> <a href="https://twitter.com/LaStatale?ref_src=twsrc%5Etfw">@LaStatale</a></p>&mdash; Anna Rosso (@annac_rosso) <a href="https://twitter.com/annac_rosso/status/1179300710875308032?ref_src=twsrc%5Etfw">October 2, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Andy Haldane&#39;s survey of &#39;Productivity Puzzles&#39; is v good. <a href="https://t.co/meAGLxqVv1">https://t.co/meAGLxqVv1</a></p>&mdash; Tony Yates (@t0nyyates) <a href="https://twitter.com/t0nyyates/status/1196756168993058816?ref_src=twsrc%5Etfw">November 19, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
 #### INEQUALITY #####
 
 
