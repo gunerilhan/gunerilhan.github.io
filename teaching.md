@@ -54,6 +54,8 @@ title: Teaching
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">A nice article about the important work by <a href="https://twitter.com/davidautor?ref_src=twsrc%5Etfw">@davidautor</a> <br><br>David Autor, the academic voice of the American worker <a href="https://t.co/LNRW3f912i">https://t.co/LNRW3f912i</a> via <a href="https://twitter.com/TheEconomist?ref_src=twsrc%5Etfw">@TheEconomist</a></p>&mdash; Arindrajit Dube (@arindube) <a href="https://twitter.com/arindube/status/1108367266285015045?ref_src=twsrc%5Etfw">March 20, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Foreign investment and economic growth <a href="https://t.co/6QStY1wMlX">https://t.co/6QStY1wMlX</a></p>&mdash; VoxEU (@voxeu) <a href="https://twitter.com/voxeu/status/1205048024965111808?ref_src=twsrc%5Etfw">December 12, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 #### TECHNOLOGICAL PROGRESS ####
 
 
