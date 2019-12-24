@@ -58,6 +58,7 @@ title: Teaching
 
 #### TECHNOLOGICAL PROGRESS ####
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">The top 10 Economics of Innovation papers, as judged by me this morning. A 🧵 <a href="https://t.co/6QQ9LArMkZ">https://t.co/6QQ9LArMkZ</a></p>&mdash; Matt Clancy (@mattsclancy) <a href="https://twitter.com/mattsclancy/status/1209127931869577219?ref_src=twsrc%5Etfw">December 23, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">What is <a href="https://twitter.com/hashtag/productivity?src=hash&amp;ref_src=twsrc%5Etfw">#productivity</a>? <a href="https://t.co/04FpRe2ZC5">https://t.co/04FpRe2ZC5</a> <a href="https://twitter.com/hashtag/BLSdata?src=hash&amp;ref_src=twsrc%5Etfw">#BLSdata</a></p>&mdash; BLS-Labor Statistics (@BLS_gov) <a href="https://twitter.com/BLS_gov/status/1029716839876702208?ref_src=twsrc%5Etfw">August 15, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
