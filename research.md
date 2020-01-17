@@ -19,3 +19,7 @@ Using Current Population Survey data, we document monthly movements across three
 #### (joint with Mehdi Hamidi Sahneh)
 
 We exploit bookmaker's odds to propose a novel measure of competitiveness in sport. We then present two stylized facts: (1) using different measures, we find a decreasing level of competitiveness in the European football (soccer) within 'big five' leagues over the last two decades; (2) Concurrently, economic inequality has increased between clubs in these countries. This strongly suggests that rising income inequality is an important factor in determining the competitiveness level. To establish a causal link, we use a regression discontinuity design to examine the effects of participation in UEFA Champions League (UCL), a prestigious club competition with substantial financial benefits, on the subsequent performance of the teams. We find that participation in UCL improves the probability of winning a game by about 8 percentage points and the within game goal difference by about 0.3 goals.
+
+<center>
+<iframe width="570" height="570" src="https://gunerilhan.github.io/img/competitiveness.html" frameborder="0" allowfullscreen></iframe>
+</center>
