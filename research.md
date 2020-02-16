@@ -12,7 +12,12 @@ I examine the optimal government subsidy of R&D activities when sectors are hete
 
 #### (joint with [Tomaz Cajner](https://www.federalreserve.gov/econresdata/tomaz-cajner.htm) and [Toshihiko Mukoyama](https://sites.google.com/site/toshimukoyama/)) ####
 
-Using Current Population Survey data, we document monthly movements across three labor market states (employment, unemployment, and out of labor market) and transitions across jobs during the life cycle of individuals. The data shows that worker flows vary substantially over the life cycle. Most labor market transition rates go down as people age, while transitions out of the labor market increase later in the life cycle of workers. We build a partial-equilibrium model of the worker life cycle that features saving decisions, idiosyncratic worker productivity shocks, and match quality shocks. We use the model to identify the forces that lead to observed patterns of worker flows over the life cycle and over the business cycle.
+This paper analyzes the gross worker flows over the life cycle. Using Current Population Survey data, we first document the life-cycle patterns of flows across different labor market states (employment, unemployment, and not in the labor force) as well as job-to-job transitions in the US. We build a model of the aggregate labor market that incorporates the life cycle of workers, consumption-saving decisions, and labor market frictions. We estimate the model with the US data, and use the estimated model to investigate the effect of taxes and transfers on aggregate labor market outcomes, such as unemployment rate and the labor force participation rate, through the lens of gross labor market flows.
+
+<center>
+<iframe width="900" height="530" src="https://gunerilhan.github.io/img/transitions.html" frameborder="0" allowfullscreen></iframe>
+</center>
+
 
 ### Inequality in Sport: Money Brings Success
 
