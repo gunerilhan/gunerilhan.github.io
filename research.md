@@ -25,6 +25,8 @@ This paper analyzes the gross worker flows over the life cycle. We first documen
 
 #### (joint with [Mehdi Hamidi Sahneh](https://www.kent.ac.uk/economics/staff/profiles/mehdi-hamidi-sahneh.html))
 
+**[Link to the paper](https://gunerilhan.github.io/img/Peer_Effect.pdf)**
+
 This paper asks whether participation in elite international football tournaments help teams to perform better in their domestic tournaments. We create a novel dataset by combining end of the season league tables with match level data on betting odds and match scores. Using a regression discontinuity design on top 5 European football leagues, we find that participation in highly selective UEFA Champions League (UCL) generates large performance gains to participating teams. More precisely, participation in the UCL improves i) goal differences (goals scored minus goals conceded) by approximately 0.3 goals per game and ii) probability margin (probability of winning minus probability of losing) by approximately 10 percentage points. By ruling out other potential channels, we argue that our results suggest the importance of peer effects in sports.
 
 ![Regression discontinuity](https://gunerilhan.github.io/img/NMCPM1.pdf)
