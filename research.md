@@ -21,12 +21,10 @@ This paper analyzes the gross worker flows over the life cycle. We first documen
 </center>
 
 
-### Inequality in Sport: Money Brings Success
+### Peer Effects in Sports: Does Playing in Elite Tournaments Affect Performance?
 
 #### (joint with [Mehdi Hamidi Sahneh](https://www.kent.ac.uk/economics/staff/profiles/mehdi-hamidi-sahneh.html))
 
-We exploit bookmaker's odds to propose a novel measure of competitiveness in sport. We then present two stylized facts: (1) using different measures, we find a decreasing level of competitiveness in the European football (soccer) within 'big five' leagues over the last two decades; (2) Concurrently, economic inequality has increased between clubs in these countries. This strongly suggests that rising income inequality is an important factor in determining the competitiveness level. To establish a causal link, we use a regression discontinuity design to examine the effects of participation in UEFA Champions League (UCL), a prestigious club competition with substantial financial benefits, on the subsequent performance of the teams. We find that participation in UCL improves the probability of winning a game by about 8 percentage points and the within game goal difference by about 0.3 goals.
+This paper asks whether participation in elite international football tournaments help teams to perform better in their domestic tournaments. We create a novel dataset by combining end of the season league tables with match level data on betting odds and match scores. Using a regression discontinuity design on top 5 European football leagues, we find that participation in highly selective UEFA Champions League (UCL) generates large performance gains to participating teams. More precisely, participation in the UCL improves i) goal differences (goals scored minus goals conceded) by approximately 0.3 goals per game and ii) probability margin (probability of winning minus probability of losing) by approximately 10 percentage points. By ruling out other potential channels, we argue that our results suggest the importance of peer effects in sports.
 
-<center>
-<iframe width="900" height="530" src="https://gunerilhan.github.io/img/competitiveness.html" frameborder="0" allowfullscreen></iframe>
-</center>
+![Regression discontinuity](https://gunerilhan.github.io/img/NMCPM1.pdf)
