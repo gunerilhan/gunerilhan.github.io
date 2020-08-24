@@ -2,7 +2,7 @@
 title: "<span style = 'font-size: 80%;' > Does Playing in Elite Tournaments Affect Performance?</span>"
 subtitle: <html><div style='float:left'></div><hr color='#EB811B' size=1px width=796px></html>
 author: "&#x130;lhan G&#252;ner and Mehdi Hamidi Sahneh<br> <span style = 'font-size: 60%;'> University of Kent<br> School of Economics</span>"
-date: 'EEA Virtual 2020'
+date: "EEA Virtual 2020 <br> <span style = 'font-size: 60%;'>Slides available at https://gunerilhan.github.io/img/EEA-presentation/spillovers</span>"
 output:
   xaringan::moon_reader:
     css: [default,rladies, metropolis-fonts] 
