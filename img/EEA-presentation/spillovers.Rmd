@@ -5,7 +5,7 @@ author: "&#x130;lhan G&#252;ner and Mehdi Hamidi Sahneh<br> <span style = 'font-
 date: "EEA Virtual 2020 <br> <span style = 'font-size: 60%;'>Slides available at https://gunerilhan.github.io/img/EEA-presentation/spillovers</span>"
 output:
   xaringan::moon_reader:
-    css: [default,rladies, metropolis-fonts] 
+    css: [default,rladies, tamu-fonts] 
     lib_dir: libs
     nature:
       titleSlideClass: ["left", "middle", "inverse"]
@@ -15,12 +15,10 @@ output:
       countIncrementalSlides: false
 
 ---
-
+.pull-left[
 
 ### Motivation
 
-
-.pull-left[
 - How does interaction with elite peers affect performance?
 
  - Referred as "spillover effects" or "peer effects"
@@ -31,17 +29,21 @@ output:
 
  - non-random selection into treatment
 
- - agents respond to other incentives
-
 - We analyze spillovers by
 
  - using Europan football as labaratory 
 
  - by relying on a quasi-experimental design
+ 
+ - following Abdulkadiroğlu, Angrist, and Pathak (2014), elite illusion 
 
 ]
 
 .pull-right[
+
+<br>
+
+<br>
 
 <center>
 <img src="./files/iu-2.jpeg" width="80%"/>
@@ -102,7 +104,9 @@ name: Data
 <br>
 
 
-- A new data set of European football at the game level, including actual result, location, betting market odds, end of league tables, transfer fees.
+- A new data set of European football at the game level, including 
+
+ - actual result, location, betting market odds, end of league tables, transfer fees, and manager (coach) changes.
 <br>  
 
 - *Top Five* European countries: England, Germany, Italy, Spain, and France
@@ -113,54 +117,6 @@ name: Data
 
 - We pool data across countries and seasons into a single sample
 <br>
-
----
-### Measures of Performance
-
-<br>
-
-<br>
-
-- At the match level:
-
- - Goal difference (Ex-Post): the number of goals scored minus the number of goals conceded
-
- - Probality margin (Ex-ante): betting market determined probility of winning minus the probability of losing
-
-
-- We conduct analysis using both measures
-
- - Focus on the probability margin in this presentation
-
-
----
- 
-### *(Ex-Ante)* Measure of Performance: [Probability Margin](#pm-detail)
-
-- We use kick-off odds on football matches from 13 major online bookmakers: Bet365, BWin, ...
-
-
-- From the odds, we calculate *ex-ante* probability of different events
-
-- Probability margin of winning (PM), defined as probability of winning minus probability of loosing
-
-#### Example
-
-|	Date | 	Home Team |	Away Team |	B365 Away |	B365 Draw| 	B365 Home  |	Score |
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|06/05/18 	|Barcelona |	Real Madrid |	4.50 |	4.33 |	1.66 |	2-2|
-
-
-**Probabilities**
-
-| Barcelona winning | Real Madrid Winning | Draw |
-|:---:              | :---:               | :---: |
-| 57%             | 21%               | 22% |
-
-**Probability margin**
-
-- $PM_{Bar,Mad,H,ESP,2018} = 57-21=36\%, \quad \quad$ $PM_{Mad,Bar,A,ESP,2018} = 21-57=-36\%$
-
 
 
 ---
@@ -217,7 +173,8 @@ Source: www.transfermarkt.co.uk
 .pull-right[
 <center>
 <h4> UCL Qualification Example: EPL (2014-15) </h4>
-<img src="./files/EPL.svg" width="100%"/>
+<img src="./files/EPL.jpg" width="100%"/> <br>
+Source: Wikipedia
 </center>
 ]
 
@@ -275,6 +232,54 @@ where $S_{i,l,t} \equiv \frac{Pts_{i,l,t}-Pts^*_{l,t}}{Std(Pts_{i,l,t})}$ is the
 
  - We assume that $f(.)$ can be described by low-order polynomial
  
+---
+### Measures of Performance
+
+<br>
+
+<br>
+
+- At the match level:
+
+ - Goal difference (Ex-Post): the number of goals scored minus the number of goals conceded
+
+ - Probality margin (Ex-ante): betting market determined probility of winning minus the probability of losing
+
+
+- We conduct analysis using both measures
+
+ - Focus on the probability margin in this presentation
+
+
+---
+ 
+### *(Ex-Ante)* Measure of Performance: [Probability Margin](#pm-detail)
+
+- We use kick-off odds on football matches from 13 major online bookmakers: Bet365, BWin, ...
+
+
+- From the odds, we calculate *ex-ante* probability of different events
+
+- Probability margin of winning (PM), defined as probability of winning minus probability of loosing
+
+#### Example
+
+|	Date | 	Home Team |	Away Team |	B365 Away |	B365 Draw| 	B365 Home  |	Score |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+|06/05/18 	|Barcelona |	Real Madrid |	4.50 |	4.33 |	1.66 |	2-2|
+
+
+**Probabilities**
+
+| Barcelona winning | Real Madrid Winning | Draw |
+|:---:              | :---:               | :---: |
+| 57%             | 21%               | 22% |
+
+**Probability margin**
+
+- $PM_{Bar,Mad,H,ESP,2018} = 57-21=36\%, \quad \quad$ $PM_{Mad,Bar,A,ESP,2018} = 21-57=-36\%$
+
+
 
 
 ---
@@ -327,7 +332,7 @@ name: empirics
 |Method    | Robust  | Robust |Conven.| Conven.|
 |Eff. Sample Size     |  16,544   | 27,827  |  16,544    |  27,827 |
 
-**Notes:** _Estimates are based on a MSE-optimal bandwidth and triangular kernel. All specifications include a season and league fixed effects. Estimated standard errors are two-way clustered at the team-season levels. $^{***}$ Significant at the 1 percent level. $^{**}$ Significant at the 5 percent level. $^{*}$ Significant at the 10 percent level._
+**Notes:** _Estimates are based on a MSE-optimal bandwidth and uniform kernel. All specifications include a season and league fixed effects. Estimated standard errors are two-way clustered at the team-season levels. $^{***}$ Significant at the 1 percent level. $^{**}$ Significant at the 5 percent level. $^{*}$ Significant at the 10 percent level._
 
 ]
 
@@ -392,7 +397,7 @@ name: mechanisms
 |Method    | Robust  | Conven. |
 |Eff. Sample Size     |   17,711  | 17,711| 
 
-**Notes:** _Estimates are based on a MSE-optimal bandwidth and triangular kernel. All specifications include a season and league fixed effects. Estimated standard errors are two-way clustered at the team-season levels. $^{***}$ Significant at the 1 percent level. $^{**}$ Significant at the 5 percent level. $^{*}$ Significant at the 10 percent level._
+**Notes:** _Estimates are based on a MSE-optimal bandwidth and uniform kernel. All specifications include a season and league fixed effects. Estimated standard errors are two-way clustered at the team-season levels. $^{***}$ Significant at the 1 percent level. $^{**}$ Significant at the 5 percent level. $^{*}$ Significant at the 10 percent level._
 ]
 ---
 ### No discontinuity on transfer fees
@@ -421,7 +426,7 @@ name: mechanisms
 |Method    | Robust  | Conven. |
 |Eff. Sample Size     |   7,100  | 7,100| 
 
-**Notes:** _Estimates are based on a MSE-optimal bandwidth and triangular kernel. All specifications include a season and league fixed effects. Estimated standard errors are two-way clustered at the team-season levels. $^{***}$ Significant at the 1 percent level. $^{**}$ Significant at the 5 percent level. $^{*}$ Significant at the 10 percent level._
+**Notes:** _Estimates are based on a MSE-optimal bandwidth and uniform kernel. All specifications include a season and league fixed effects. Estimated standard errors are two-way clustered at the team-season levels. $^{***}$ Significant at the 1 percent level. $^{**}$ Significant at the 5 percent level. $^{*}$ Significant at the 10 percent level._
 ]
 
 
@@ -600,7 +605,7 @@ class: inverse, center, middle
 |Method    | Robust  | Robust |Conven.| Conven.|
 |Eff. Sample Size     |   14,097    |21,610   |  14,097     |  21,610   |
 
-**Notes:** _Estimates are based on a MSE-optimal bandwidth and triangular kernel. All specifications include a season and league fixed effects. Estimated standard errors are two-way clustered at the team-season levels. $^{***}$ Significant at the 1 percent level. $^{**}$ Significant at the 5 percent level. $^{*}$ Significant at the 10 percent level._
+**Notes:** _Estimates are based on a MSE-optimal bandwidth and uniform kernel. All specifications include a season and league fixed effects. Estimated standard errors are two-way clustered at the team-season levels. $^{***}$ Significant at the 1 percent level. $^{**}$ Significant at the 5 percent level. $^{*}$ Significant at the 10 percent level._
 ]
 
 
@@ -663,7 +668,7 @@ name: gd
 |Method    | Robust  | Robust |Conven.| Conven.|
 |Eff. Sample Size     |   20,281  | 29,231|  20,281  | 29,231|
 
-**Notes:** _Estimates are based on a MSE-optimal bandwidth and triangular kernel. All specifications include a season and league fixed effects. Estimated standard errors are two-way clustered at the team-season levels. $^{***}$ Significant at the 1 percent level. $^{**}$ Significant at the 5 percent level. $^{*}$ Significant at the 10 percent level._
+**Notes:** _Estimates are based on a MSE-optimal bandwidth and uniform kernel. All specifications include a season and league fixed effects. Estimated standard errors are two-way clustered at the team-season levels. $^{***}$ Significant at the 1 percent level. $^{**}$ Significant at the 5 percent level. $^{*}$ Significant at the 10 percent level._
 ]
 ---
 ### No managerial changes
@@ -692,7 +697,7 @@ name: gd
 |Method    | Robust  | Conven. |
 |Eff. Sample Size     |   15,809  | 17,809| 
 
-**Notes:** _Estimates are based on a MSE-optimal bandwidth and triangular kernel. All specifications include a season and league fixed effects. Estimated standard errors are two-way clustered at the team-season levels. $^{***}$ Significant at the 1 percent level. $^{**}$ Significant at the 5 percent level. $^{*}$ Significant at the 10 percent level._
+**Notes:** _Estimates are based on a MSE-optimal bandwidth and uniform kernel. All specifications include a season and league fixed effects. Estimated standard errors are two-way clustered at the team-season levels. $^{***}$ Significant at the 1 percent level. $^{**}$ Significant at the 5 percent level. $^{*}$ Significant at the 10 percent level._
 ]
 
 
