@@ -13,6 +13,7 @@ output:
       highlightStyle: github
       highlightLines: true
       countIncrementalSlides: false
+      slideNumberFormat: "Slide %current% of 21"
 
 ---
 .pull-left[
@@ -106,7 +107,7 @@ name: Data
 
 - A new data set of European football at the game level, including 
 
- - actual result, location, betting market odds, end of league tables, transfer fees, and manager (coach) changes.
+ - actual result, location, betting market odds, end of league tables, transfer fees, <br> and manager (coach) changes.
 <br>  
 
 - *Top Five* European countries: England, Germany, Italy, Spain, and France
@@ -310,7 +311,7 @@ name: empirics
 
 .pull-left[
 <center>
-<h4> Prob. Margin of Winning After Qualification </h4> <br>
+<h4> Prob. Margin of Winning After Qualification </h4> 
 <img src="./files/PosUCLPM2.jpg" width="90%"/>
 </center>
 
@@ -333,7 +334,9 @@ name: empirics
 |Method    | Robust  | Robust |Conven.| Conven.|
 |Eff. Sample Size     |  16,544   | 27,827  |  16,544    |  27,827 |
 
-**Notes:** _Estimates are based on a MSE-optimal bandwidth and uniform kernel. All specifications include a season and league fixed effects. Estimated standard errors are two-way clustered at the team-season levels. $^{***}$ Significant at the 1 percent level. $^{**}$ Significant at the 5 percent level. $^{*}$ Significant at the 10 percent level._
+.left[<p style="font-size:10px;"> **Notes:** _Estimates are based on a MSE-optimal bandwidth and uniform kernel. All specifications include a season and league fixed effects. Estimated standard errors are two-way clustered at the team-season levels. $^{***}$ Significant at the 1 percent level._ </p>]
+
+
 
 ]
 
@@ -376,7 +379,7 @@ name: mechanisms
 
 .pull-left[
 <center>
-<h4> Prob. Margin of Winning After Qualification </h4> <br>
+<h4> Prob. Margin of Winning After Qualification </h4> 
 <img src="./files/NMCPM2.jpg" width="90%"/>
 </center>
 
@@ -398,14 +401,14 @@ name: mechanisms
 |Method    | Robust  | Conven. |
 |Eff. Sample Size     |   17,711  | 17,711| 
 
-**Notes:** _Estimates are based on a MSE-optimal bandwidth and uniform kernel. All specifications include a season and league fixed effects. Estimated standard errors are two-way clustered at the team-season levels. $^{***}$ Significant at the 1 percent level. $^{**}$ Significant at the 5 percent level. $^{*}$ Significant at the 10 percent level._
+**Notes:** _Estimates are based on a MSE-optimal bandwidth and uniform kernel. All specifications include a season and league fixed effects. Estimated standard errors are two-way clustered at the team-season levels. $^{**}$ Significant at the 5 percent level._
 ]
 ---
 ### No discontinuity on transfer fees
 
 .pull-left[
 <center>
-<h4> Transfer Fees After Qualification </h4> <br>
+<h4> Transfer Fees After Qualification </h4> 
 <img src="./files/ATF2.jpg" width="90%"/>
 </center>
 
@@ -416,7 +419,7 @@ name: mechanisms
 
 
 <center>
-<h4> RDD Estimates of Transfer Fees After Qualification </h4> <br>
+<h4> RDD Estimates</h4> 
 </center>
 
 |Specification| (1)   | (2)   | 
@@ -427,7 +430,7 @@ name: mechanisms
 |Method    | Robust  | Conven. |
 |Eff. Sample Size     |   7,100  | 7,100| 
 
-**Notes:** _Estimates are based on a MSE-optimal bandwidth and uniform kernel. All specifications include a season and league fixed effects. Estimated standard errors are two-way clustered at the team-season levels. $^{***}$ Significant at the 1 percent level. $^{**}$ Significant at the 5 percent level. $^{*}$ Significant at the 10 percent level._
+**Notes:** _Estimates are based on a MSE-optimal bandwidth and uniform kernel. All specifications include a season and league fixed effects. Estimated standard errors are two-way clustered at the team-season levels. $^{*}$ Significant at the 10 percent level._
 ]
 
 
@@ -574,7 +577,7 @@ class: inverse, center, middle
 ---
 ### No discontinuity on the disribution of the running variable 
 <center>
-<h4> Density of Running Variable </h4> <br>
+<h4> Density of Running Variable </h4>
 <img src="./files/Den.svg" width="50%"/>
 </center>
 .center[*Density of the running variable with bins of width 0.1 <br> and corresponding Cattaneo, Jansson and Ma (2019) test statistic = 0.303 ( _p_-value=0.762).*]
@@ -586,7 +589,7 @@ class: inverse, center, middle
 .pull-left[
 
 <center>
-<h4> Probability Margin of Winning Before Qualification </h4> <br>
+<h4> Probability Margin of Winning Before Qualification </h4>
 <img src="./files/PreUCLPM2.jpg" width="90%"/>
 </center>
 
@@ -606,7 +609,7 @@ class: inverse, center, middle
 |Method    | Robust  | Robust |Conven.| Conven.|
 |Eff. Sample Size     |   14,097    |21,610   |  14,097     |  21,610   |
 
-**Notes:** _Estimates are based on a MSE-optimal bandwidth and uniform kernel. All specifications include a season and league fixed effects. Estimated standard errors are two-way clustered at the team-season levels. $^{***}$ Significant at the 1 percent level. $^{**}$ Significant at the 5 percent level. $^{*}$ Significant at the 10 percent level._
+**Notes:** _Estimates are based on a MSE-optimal bandwidth and uniform kernel. All specifications include a season and league fixed effects. Estimated standard errors are two-way clustered at the team-season levels. $^{*}$ Significant at the 10 percent level._
 ]
 
 
@@ -616,7 +619,7 @@ class: inverse, center, middle
 ### [No discontinuity on the predetermined goal differences](#empirics)
 .pull-left[
 <center>
-<h4> Goal Difference Before Qualification </h4> <br>
+<h4> Goal Difference Before Qualification </h4> 
 <img src="./files/PreUCLGD2.jpg" width="90%"/>
 </center>
 
@@ -627,7 +630,7 @@ class: inverse, center, middle
 
 .pull-right[
 <center>
-<h4> RDD Estimates of Goal Difference Before Qualification </h4> <br>
+<h4> RDD Estimates </h4> 
 </center>
 
 |Specification| (1)   | (2)   |  (3)  | (4)   |
@@ -638,7 +641,7 @@ class: inverse, center, middle
 |Method    | Robust  | Robust |Conven.| Conven.|
 |Eff. Sample Size     |  14,097    |23,766 |  14,097     |  23,766  |
 
-**Notes:** _All specifications include a season and league fixed effects. Estimated standard errors are two-way clustered at the team-season levels. $^{***}$ Significant at the 1 percent level. $^{**}$ Significant at the 5 percent level. $^{*}$ Significant at the 10 percent level._
+**Notes:** _All specifications include a season and league fixed effects. Estimated standard errors are two-way clustered at the team-season levels. $^{*}$ Significant at the 10 percent level._
 
 ]
 ---
@@ -647,7 +650,7 @@ name: gd
 
 .pull-left[
 <center>
-<h4> Goal Difference After Qualification </h4> <br>
+<h4> Goal Difference After Qualification </h4>
 <img src="./files/PosUCLGD2.jpg" width="90%"/>
 </center>
 
@@ -655,10 +658,8 @@ name: gd
 ]
 
 .pull-right[
-
-
 <center>
-<h4> RDD Estimates of Goal Difference After Qualification </h4> <br>
+<h4> RDD Estimates</h4> 
 </center>
 
 |Specification| (1)   | (2)   |  (3)  | (4)   |
@@ -669,14 +670,14 @@ name: gd
 |Method    | Robust  | Robust |Conven.| Conven.|
 |Eff. Sample Size     |   20,281  | 29,231|  20,281  | 29,231|
 
-**Notes:** _Estimates are based on a MSE-optimal bandwidth and uniform kernel. All specifications include a season and league fixed effects. Estimated standard errors are two-way clustered at the team-season levels. $^{***}$ Significant at the 1 percent level. $^{**}$ Significant at the 5 percent level. $^{*}$ Significant at the 10 percent level._
+**Notes:** _Estimates are based on a MSE-optimal bandwidth and uniform kernel. All specifications include a season and league fixed effects. Estimated standard errors are two-way clustered at the team-season levels. $^{***}$ Significant at the 1 percent level. $^{**}$ Significant at the 5 percent level._
 ]
 ---
 ### No managerial changes
 
 .pull-left[
 <center>
-<h4> Goal Difference After Qualification </h4> <br>
+<h4> Goal Difference After Qualification </h4> 
 <img src="./files/NMCGD2.jpg" width="90%"/>
 </center>
 
@@ -698,7 +699,7 @@ name: gd
 |Method    | Robust  | Conven. |
 |Eff. Sample Size     |   15,809  | 17,809| 
 
-**Notes:** _Estimates are based on a MSE-optimal bandwidth and uniform kernel. All specifications include a season and league fixed effects. Estimated standard errors are two-way clustered at the team-season levels. $^{***}$ Significant at the 1 percent level. $^{**}$ Significant at the 5 percent level. $^{*}$ Significant at the 10 percent level._
+**Notes:** _Estimates are based on a MSE-optimal bandwidth and uniform kernel. All specifications include a season and league fixed effects. Estimated standard errors are two-way clustered at the team-season levels. $^{*}$ Significant at the 10 percent level._
 ]
 
 
