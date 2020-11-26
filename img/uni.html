@@ -13099,12 +13099,12 @@ div#notebook {
 <div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
 </div><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<h3 id="Number-of-people-self-isolating-to-positive-tests">Number of people self-isolating to positive tests<a class="anchor-link" href="#Number-of-people-self-isolating-to-positive-tests">&#182;</a></h3><p>The goal of this code is to convert the University's highly opaque <a href="https://www.kent.ac.uk/coronavirus/update-on-covid-19-cases">reporting</a> on covid to a metric that can be compared with government data. There are numerous issues with the University's reporting including bunching of different campuses and reliability of the information. However, I want to focus on the issue of reporting the number of number of people isolating, not the number of people tested positive as in the government <a href="https://coronavirus.data.gov.uk/">data</a>. The University describes their data as follows:</p>
-<blockquote><p>Each week we publish the number of cases of students and staff who are currently self-isolating following a positive test for Covid-19 that have been reported to us.</p>
+<h3 id="Number-of-people-self-isolating-to-positive-tests">Number of people self-isolating to positive tests<a class="anchor-link" href="#Number-of-people-self-isolating-to-positive-tests">&#182;</a></h3><p>The goal of this code is to convert the Covid-19 <a href="https://www.kent.ac.uk/coronavirus/update-on-covid-19-cases">numbers</a> provided by the University to a metric that can be comparable with government data. There are numerous issues with the University's reporting including bunching of different campuses and reliability of the information. However, I want to focus on the issue of reporting the number of people self-isolating, instead of the number of people tested positive as in the government <a href="https://coronavirus.data.gov.uk/">data</a>. The University describes its data as follows:</p>
+<blockquote><p>Each week we publish the number of cases of students and staff who are <strong>currently</strong> self-isolating following a <strong>positive test</strong> for Covid-19 that have been <strong>reported</strong> to us.</p>
 </blockquote>
-<p>Let's try to convert the number of self-isolating (a stock variable) to number of positives in a week(a flow variable). To achieve this goal, I'll make a bunch of assumptions (hey, I'm a macroeconomists!).</p>
+<p>Let's try to convert the number of self-isolating (a stock variable) to number of positives in a week (a flow variable). To achieve this goal, I'll make a bunch of assumptions (hey, I'm a macroeconomist!).</p>
 <ul>
-<li><p>Let $x_t$ be the average number of positive cases at week $t$.</p>
+<li><p>Let $x_t$ be the number of positive cases at week $t$.</p>
 </li>
 <li><p>Let $m$ be the required days of isolation after a positive tests. Assume $7&lt;m \leq 14$.</p>
 </li>
@@ -13113,7 +13113,8 @@ div#notebook {
 <li><p>Suppose $K_0=0$ at the beginning of the term.</p>
 </li>
 </ul>
-<p>Then, $K_1 = x_0$, $K_2=x_0+x_1-\frac{(14-m)}{7}x_0$, ...</p>
+<p>Then, $K_1 = x_0$, $K_2=x_0+x_1-\frac{(14-m)}{7}x_0$, ... (Implicit assumption: equal number of people test positive each day in a week.
+)</p>
 <p>The law of motion of $K$ is</p>
 $$K_{t+1}=K_t+x_t-\frac{(14-m)}{7}x_{t-1}$$<p>Here are the numbers reported by the University:</p>
 <table>
@@ -13125,6 +13126,12 @@ $$K_{t+1}=K_t+x_t-\frac{(14-m)}{7}x_{t-1}$$<p>Here are the numbers reported by t
 </tr>
 </thead>
 <tbody>
+<tr>
+<td style="text-align:left">Monday 23 November</td>
+<td style="text-align:center">23</td>
+<td style="text-align:center">14</td>
+<td style="text-align:center">3</td>
+</tr>
 <tr>
 <td style="text-align:left">Monday 16 November</td>
 <td style="text-align:center">35</td>
@@ -13180,8 +13187,8 @@ $$K_{t+1}=K_t+x_t-\frac{(14-m)}{7}x_{t-1}$$<p>Here are the numbers reported by t
 <div class="prompt input_prompt">In&nbsp;[2]:</div>
 <div class="inner_cell">
     <div class="input_area">
-<div class=" highlight hl-ipython3"><pre><span></span><span class="n">dates</span> <span class="o">=</span> <span class="p">[</span><span class="s1">&#39;16/11/2020&#39;</span><span class="p">,</span><span class="s1">&#39;9/11/2020&#39;</span><span class="p">,</span><span class="s1">&#39;2/11/2020&#39;</span><span class="p">,</span><span class="s1">&#39;26/10/2020&#39;</span><span class="p">,</span><span class="s1">&#39;19/10/2020&#39;</span><span class="p">,</span><span class="s1">&#39;12/10/2020&#39;</span><span class="p">,</span><span class="s1">&#39;7/10/2020&#39;</span><span class="p">]</span>
-<span class="n">on_campus</span><span class="p">,</span> <span class="n">off_campus</span><span class="p">,</span> <span class="n">staff</span> <span class="o">=</span> <span class="p">[</span><span class="mi">35</span><span class="p">,</span><span class="mi">31</span><span class="p">,</span><span class="mi">16</span><span class="p">,</span><span class="mi">24</span><span class="p">,</span><span class="mi">19</span><span class="p">,</span><span class="mi">4</span><span class="p">,</span><span class="mi">2</span><span class="p">],[</span><span class="mi">22</span><span class="p">,</span><span class="mi">18</span><span class="p">,</span><span class="mi">16</span><span class="p">,</span><span class="mi">5</span><span class="p">,</span><span class="mi">7</span><span class="p">,</span><span class="mi">2</span><span class="p">,</span><span class="mi">6</span><span class="p">],[</span><span class="mi">2</span><span class="p">,</span><span class="mi">0</span><span class="p">,</span><span class="mi">3</span><span class="p">,</span><span class="mi">1</span><span class="p">,</span><span class="mi">0</span><span class="p">,</span><span class="mi">0</span><span class="p">,</span><span class="mi">1</span><span class="p">]</span>
+<div class=" highlight hl-ipython3"><pre><span></span><span class="n">dates</span> <span class="o">=</span> <span class="p">[</span><span class="s1">&#39;23/11/2020&#39;</span><span class="p">,</span><span class="s1">&#39;16/11/2020&#39;</span><span class="p">,</span><span class="s1">&#39;9/11/2020&#39;</span><span class="p">,</span><span class="s1">&#39;2/11/2020&#39;</span><span class="p">,</span><span class="s1">&#39;26/10/2020&#39;</span><span class="p">,</span><span class="s1">&#39;19/10/2020&#39;</span><span class="p">,</span><span class="s1">&#39;12/10/2020&#39;</span><span class="p">,</span><span class="s1">&#39;7/10/2020&#39;</span><span class="p">]</span>
+<span class="n">on_campus</span><span class="p">,</span> <span class="n">off_campus</span><span class="p">,</span> <span class="n">staff</span> <span class="o">=</span> <span class="p">[</span><span class="mi">23</span><span class="p">,</span><span class="mi">35</span><span class="p">,</span><span class="mi">31</span><span class="p">,</span><span class="mi">16</span><span class="p">,</span><span class="mi">24</span><span class="p">,</span><span class="mi">19</span><span class="p">,</span><span class="mi">4</span><span class="p">,</span><span class="mi">2</span><span class="p">],[</span><span class="mi">14</span><span class="p">,</span><span class="mi">22</span><span class="p">,</span><span class="mi">18</span><span class="p">,</span><span class="mi">16</span><span class="p">,</span><span class="mi">5</span><span class="p">,</span><span class="mi">7</span><span class="p">,</span><span class="mi">2</span><span class="p">,</span><span class="mi">6</span><span class="p">],[</span><span class="mi">3</span><span class="p">,</span><span class="mi">2</span><span class="p">,</span><span class="mi">0</span><span class="p">,</span><span class="mi">3</span><span class="p">,</span><span class="mi">1</span><span class="p">,</span><span class="mi">0</span><span class="p">,</span><span class="mi">0</span><span class="p">,</span><span class="mi">1</span><span class="p">]</span>
 </pre></div>
 
     </div>
@@ -13253,6 +13260,13 @@ $$K_{t+1}=K_t+x_t-\frac{(14-m)}{7}x_{t-1}$$<p>Here are the numbers reported by t
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <th>2020-11-23</th>
+      <td>23</td>
+      <td>14</td>
+      <td>3</td>
+      <td>40</td>
+    </tr>
     <tr>
       <th>2020-11-16</th>
       <td>35</td>
@@ -13446,6 +13460,16 @@ $$K_{t+1}=K_t+x_t-\frac{(14-m)}{7}x_{t-1}$$<p>Here are the numbers reported by t
   </thead>
   <tbody>
     <tr>
+      <th>2020-11-16</th>
+      <td>-4</td>
+      <td>-2</td>
+      <td>1</td>
+      <td>-6</td>
+      <td>-7</td>
+      <td>-39</td>
+      <td>8</td>
+    </tr>
+    <tr>
       <th>2020-11-09</th>
       <td>12</td>
       <td>8</td>
@@ -13515,6 +13539,14 @@ $$K_{t+1}=K_t+x_t-\frac{(14-m)}{7}x_{t-1}$$<p>Here are the numbers reported by t
 </div>
 </div>
 
+</div>
+<div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
+</div><div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<p>Oopsss! There are negative number of cases! It does not make sense, right. Maybe, my simple model is wrong. What might solve the problem? If the University starts reporting the number of positive cases, a comparison of rates across the surrounding area would be much more easier.</p>
+
+</div>
+</div>
 </div>
 <div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
 </div><div class="inner_cell">
