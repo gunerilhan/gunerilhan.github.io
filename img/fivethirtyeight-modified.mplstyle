@@ -6,7 +6,7 @@ lines.solid_capstyle: butt
 
 legend.fancybox: true
 
-axes.prop_cycle: cycler('color', ['4C72B0', '55A868', 'C44E52', '8172B2', 'CCB974', '64B5CD'])
+axes.prop_cycle: cycler('color', ['#003049','#D62828','#F77F00','#FCBF49','#EAE2B7'])
 axes.facecolor: white
 axes.labelsize: large
 axes.axisbelow: true
