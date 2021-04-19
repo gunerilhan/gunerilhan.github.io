@@ -15,13 +15,10 @@ I examine the optimal government subsidy of R&D activities when sectors are hete
 
 #### (joint with [Tomaz Cajner](https://www.federalreserve.gov/econresdata/tomaz-cajner.htm) and [Toshihiko Mukoyama](https://sites.google.com/site/toshimukoyama/)) ####
 
-**[Link to the paper](https://gunerilhan.github.io/img/FlowsLifecycleMar2020.pdf)**
+**[Link to the paper](https://gunerilhan.github.io/img/CGM.pdf)**
 
-This paper analyzes the gross worker flows over the life cycle. We first document the life-cycle patterns of flows across different labor market states (employment, unemployment, and not in the labor force) as well as job-to-job transitions in the US. Next, we build a model of the aggregate labor market that incorporates the life cycle of workers, consumption-saving decisions, and labor market frictions. Finally, we estimate the model with the US data, and use the estimated model to investigate the effect of taxes and transfers on aggregate labor market outcomes, such as unemployment rate and the labor-force participation rate, through the lens of gross labor market flows.
+This paper constructs a quantitative general equilibrium model which allows us to analyze the gross worker flows over the workers? life cycle and how various policies interact with these flows. We first document the life-cycle patterns of flows across different labor market states (employment, unemployment, and not in the labor force), as well as job-to-job transitions, in the US. Then we build a model of the aggregate labor market that incorporates the life cycle of workers, consumption-saving decisions, and labor market frictions. We estimate the model with the US data and find that the model fits the data patterns very well. Through the lens of the model, we uncover the fundamental forces that drive the life-cycle patterns. Finally, we use the estimated model to investigate the effects of policies on aggregate labor market outcomes, such as unemployment rate and the labor-force participation rate. In particular, we analyze a taxes-and-transfers policy and an unemployment insurance policy.
 
-<center>
-<iframe width="900" height="530" src="https://gunerilhan.github.io/img/transitions.html" frameborder="0" allowfullscreen></iframe>
-</center>
 
 
 ### Dancing with the Stars: Does Playing in Elite Tournaments Affect Performance?
