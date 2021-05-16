@@ -24,7 +24,7 @@ description: My job market webpage
 # List of links in the navigation bar
 navbar-links:
   Contact : "contact"
-  CV      : "https://gunerilhan.github.io/img/Guner_Ilhan_CV_Sep_2017.pdf"
+  CV      : "https://gunerilhan.github.io/img/Guner_Ilhan_CV_March_2021.pdf"
   Research: "research"
   Teaching: "teaching"
   Blog    : "blog"
