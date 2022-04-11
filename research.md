@@ -4,7 +4,7 @@ title: Research
 ---
 ### Growth and Welfare Implications of Sector-Specific Innovations ###
 
-**[Accepted to the RED](https://gunerilhan.github.io/img/paper-final_RED.pdf)**
+**[Accepted to the RED](https://www.sciencedirect.com/science/article/pii/S1094202522000059)**
 
 
 
