@@ -26,8 +26,8 @@ This paper constructs a quantitative general equilibrium model that allows us to
 
 #### (joint with [Mehdi Hamidi Sahneh](https://www.kent.ac.uk/economics/staff/profiles/mehdi-hamidi-sahneh.html))
 
-**[Revised version, December 2020](https://gunerilhan.github.io/img/spillover.pdf)**
+**[Accepted for publication at Oxford Bulletin of Economics and Statistics](https://gunerilhan.github.io/img/spillovers.pdf)**
 
-This paper documents spillover effects using participation in an elite international football tournament as a laboratory.  Using a novel dataset from top 5 European football leagues, we find that participation in highly selective UEFA Champions League (UCL) generates large performance gains to participating teams in their domestic leagues. More precisely, UCL participation improves goal differences (goals scored minus goals conceded) by approximately 0.3 goals per game and probability margin (probability of winning minus probability of losing) by approximately 10 percentage points. By investigating causal channels through which participation in the UCL might affect performance, we argue that our results suggest the importance of spillover effects in sports.
+This paper documents spillover effects using participation in an elite international football tournament as a laboratory.  Using a novel dataset from top 5 European football leagues, we find that participation in highly selective UEFA Champions League (UCL) generates large performance gains to participating teams in their domestic leagues. More precisely, UCL participation improves goal difference (goals scored minus goals conceded) by approximately 0.3 goals per game and probability margin (probability of winning minus probability of losing) by approximately 10 percentage points. By investigating causal channels through which participation in the UCL might affect performance, we argue that our results suggest the importance of spillover effects in sports.
 
 ![Regression discontinuity](https://gunerilhan.github.io/img/PosUCLPM2.jpg)
