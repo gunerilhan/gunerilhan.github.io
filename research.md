@@ -29,7 +29,7 @@ I examine the optimal government subsidy of R&D activities when sectors are hete
 
 #### (joint with [Mehdi Hamidi Sahneh](https://www.kent.ac.uk/economics/staff/profiles/mehdi-hamidi-sahneh.html))
 
-**[Accepted for publication at the Oxford Bulletin of Economics and Statistics](https://gunerilhan.github.io/img/spillovers.pdf)**
+**[Oxford Bulletin of Economics and Statistics, 85(1), 1-34.](https://gunerilhan.github.io/img/spillovers.pdf)**
 
 This paper documents spillover effects using participation in an elite international football tournament as a laboratory.  Using a novel dataset from top 5 European football leagues, we find that participation in highly selective UEFA Champions League (UCL) generates large performance gains to participating teams in their domestic leagues. More precisely, UCL participation improves goal difference (goals scored minus goals conceded) by approximately 0.3 goals per game and probability margin (probability of winning minus probability of losing) by approximately 10 percentage points. By investigating causal channels through which participation in the UCL might affect performance, we argue that our results suggest the importance of spillover effects in sports.
 
