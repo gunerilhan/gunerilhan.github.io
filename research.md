@@ -8,7 +8,7 @@ title: Research
 
 #### Accepted for publication at the Journal of Money, Credit and Banking
 
-**[Link to the paper](https://gunerilhan.github.io/img/MS22-035.pdf), [Online Appendix](https://gunerilhan.github.io/img/OnlineAppedix_CGM.pdf)**
+**[Link to the paper](https://gunerilhan.github.io/img/MS22-035.pdf), [Online Appendix](https://gunerilhan.github.io/img/OnlineAppendix_CGM.pdf)**
 
 We analyze the gross worker flows over the life cycle by constructing a quantitative general equilibrium model. Using US data, we first document the life-cycle patterns of flows across different labor market states (employment, unemployment, and not in the labor force), as well as job-to-job transitions. We then build a model of the aggregate labor market that incorporates the life cycle of workers, consumption-saving decisions, and labor market frictions. We estimate the model and use it to examine the effects of policies on aggregate labor market outcomes. In particular, we analyze a taxes-and- transfers policy and an unemployment insurance policy.
 
