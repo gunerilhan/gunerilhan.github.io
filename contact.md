@@ -9,4 +9,4 @@ title: Contact
 
 **Address:** 
 
-> School of Economics, University of Kent <br> Room 119, Kennedy Building <br> Park Wood Road <br>Canterbury, Kent, CT2 7FS, UK
+> School of Economics, University of Kent <br> Room 247, Sibson Building <br> Park Wood Road <br>Canterbury, Kent, CT2 7FS, UK
