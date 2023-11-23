@@ -4,7 +4,7 @@ title: Research
 ---
 ### Gross Worker Flows over the Life Cycle ###
 
-#### (joint with [Tomaz Cajner](https://www.federalreserve.gov/econresdata/tomaz-cajner.htm) and [Toshihiko Mukoyama](https://sites.google.com/site/toshimukoyama/)) ####
+#### joint with [Tomaz Cajner](https://www.federalreserve.gov/econresdata/tomaz-cajner.htm) and [Toshihiko Mukoyama](https://sites.google.com/view/toshimukoyama/home) ####
 
 #### Accepted for publication at the Journal of Money, Credit and Banking
 
