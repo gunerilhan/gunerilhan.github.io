@@ -2,11 +2,39 @@
 layout: page
 title: Research
 ---
+### Worker Skills, Firm Dynamics, and Productivity
+#### Joint with [Christian Siegel](http://www.siegel-christian.de)
+
+We develop a general equilibrium model of firm dynamics with multiple labour skills to analyse the productivity implications of skill shortages. Firms employ
+cognitive, interpersonal, and manual skills in both operational and overhead tasks, with sectoral variation in skill intensities, and within sector firm size heterogeneity due to idiosyncratic technology draws. Calibrated to UK data, the model reveals that cognitive skills are a binding constraint on productivity. A reduction in the supply of cognitive skills lowers labour productivity at all levels – firms, sectors, and in the aggregate. About half of the sectoral effects are due to changes in the within-sector distribution, whereby larger firms grow in relative size but become less productive. Sectoral heterogeneity in skill intensities amplifies these effects.
+
+<div style="text-align: center; margin: 20px 0;">
+  <div style="display: flex; justify-content: space-around; align-items: flex-start; flex-wrap: wrap;">
+    <div style="flex: 1; margin: 0 10px; min-width: 300px;">
+      <img src="https://gunerilhan.github.io/img/productivity-distribution-all-Production-scatter.png" 
+           alt="Labour productivity distribution - Production Sector" 
+           style="width: 100%; max-width: 500px; height: auto;">
+      <p style="font-weight: bold; margin-top: 10px;">Figure 2a: Production Sector</p>
+    </div>
+    <div style="flex: 1; margin: 0 10px; min-width: 300px;">
+      <img src="https://gunerilhan.github.io/img/productivity-distribution-all-Professional-scatter.png" 
+           alt="Labour productivity distribution - Professional Services Sector" 
+           style="width: 100%; max-width: 500px; height: auto;">
+      <p style="font-weight: bold; margin-top: 10px;">Figure 2b: Professional Services Sector</p>
+    </div>
+  </div>
+  <p style="font-style: italic; margin-top: 15px; text-align: left; max-width: 800px; margin-left: auto; margin-right: auto;">
+    <em>Labour productivity for each idiosyncratic firm technology, s, in different economies relative to the benchmark economy. The dashed vertical lines represent the (sector-specific) idiosyncratic threshold s* below which firms exit the market.</em>
+  </p>
+</div>
+
+
 ### Gross Worker Flows over the Life Cycle ###
 
 #### joint with [Tomaz Cajner](https://www.federalreserve.gov/econresdata/tomaz-cajner.htm) and [Toshihiko Mukoyama](https://sites.google.com/view/toshimukoyama/home) ####
 
-#### Forthcoming at the [Journal of Money, Credit and Banking](https://onlinelibrary.wiley.com/doi/10.1111/jmcb.13114) 
+
+#### [Journal of Money, Credit and Banking 57 (2025): 757-791](https://onlinelibrary.wiley.com/doi/10.1111/jmcb.13114)
 **[Online Appendix](https://gunerilhan.github.io/img/OnlineAppendix_CGM.pdf)**
 
 We analyze the gross worker flows over the life cycle by constructing a quantitative general equilibrium model. Using US data, we first document the life-cycle patterns of flows across different labor market states (employment, unemployment, and not in the labor force), as well as job-to-job transitions. We then build a model of the aggregate labor market that incorporates the life cycle of workers, consumption-saving decisions, and labor market frictions. We estimate the model and use it to examine the effects of policies on aggregate labor market outcomes. In particular, we analyze a taxes-and- transfers policy and an unemployment insurance policy.
