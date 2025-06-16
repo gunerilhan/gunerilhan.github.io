@@ -30,11 +30,9 @@ cognitive, interpersonal, and manual skills in both operational and overhead tas
 
 
 ### Gross Worker Flows over the Life Cycle ###
-
 #### joint with [Tomaz Cajner](https://www.federalreserve.gov/econresdata/tomaz-cajner.htm) and [Toshihiko Mukoyama](https://sites.google.com/view/toshimukoyama/home) ####
 
-
-#### [Journal of Money, Credit and Banking 57 (2025): 757-791](https://onlinelibrary.wiley.com/doi/10.1111/jmcb.13114)
+#### [Journal of Money, Credit and Banking 57, no 4 (2025): 757-791](https://onlinelibrary.wiley.com/doi/10.1111/jmcb.13114)
 **[Online Appendix](https://gunerilhan.github.io/img/OnlineAppendix_CGM.pdf)**
 
 We analyze the gross worker flows over the life cycle by constructing a quantitative general equilibrium model. Using US data, we first document the life-cycle patterns of flows across different labor market states (employment, unemployment, and not in the labor force), as well as job-to-job transitions. We then build a model of the aggregate labor market that incorporates the life cycle of workers, consumption-saving decisions, and labor market frictions. We estimate the model and use it to examine the effects of policies on aggregate labor market outcomes. In particular, we analyze a taxes-and- transfers policy and an unemployment insurance policy.
