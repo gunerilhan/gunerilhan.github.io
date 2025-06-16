@@ -13,13 +13,13 @@ cognitive, interpersonal, and manual skills in both operational and overhead tas
     <div style="flex: 1; margin: 0 10px; min-width: 300px;">
       <img src="https://gunerilhan.github.io/img/productivity-distribution-all-Production-scatter.png" 
            alt="Labour productivity distribution - Production Sector" 
-           style="width: 100%; max-width: 500px; height: auto;">
+           style="width: 40%; max-width: 500px; height: auto;">
       <p style="font-weight: bold; margin-top: 10px;">Figure 2a: Production Sector</p>
     </div>
     <div style="flex: 1; margin: 0 10px; min-width: 300px;">
       <img src="https://gunerilhan.github.io/img/productivity-distribution-all-Professional-scatter.png" 
            alt="Labour productivity distribution - Professional Services Sector" 
-           style="width: 100%; max-width: 500px; height: auto;">
+           style="width: 40%; max-width: 500px; height: auto;">
       <p style="font-weight: bold; margin-top: 10px;">Figure 2b: Professional Services Sector</p>
     </div>
   </div>
