@@ -3,7 +3,9 @@ layout: page
 title: Research
 ---
 ### Worker Skills, Firm Dynamics, and Productivity
-#### Joint with [Christian Siegel](http://www.siegel-christian.de) **[Paper](https://gunerilhan.github.io/img/Guner-Siegel-2026.pdf)**
+#### Joint with [Christian Siegel](http://www.siegel-christian.de) 
+
+**[Paper](https://gunerilhan.github.io/img/Guner-Siegel-2026.pdf)**
 
 We develop a general equilibrium model of firm dynamics with multiple labour skills to analyse the productivity implications of skill shortages. Firms employ cognitive, interpersonal, and manual skills in both operational and overhead tasks, with sectoral variation in skill intensities, and within sector firm size heterogeneity due to idiosyncratic technology draws. Calibrated to UK data, the model reveals that cognitive skills are a binding constraint on productivity. A reduction in the supply of cognitive skills lowers labour productivity at all levels -- firms, sectors, and in the aggregate. About half of the sectoral effects are due to changes in the within-sector distribution, whereby larger firms grow in relative size but become less productive. Sectoral heterogeneity in skill intensities amplifies these effects. 
 
